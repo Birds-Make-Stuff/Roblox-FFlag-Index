@@ -33,5 +33,7 @@
     "enableDefaultRobuxRequiredMessage": "true",
     "enableDevDrivenNotifications": "true",
     "enableEventCreation": "true",
-    "enableDeveloperProductsApiMigration": "true"
+    "enableDeveloperProductsApiMigration": "true",
+    "enableDevExBanner": "true",
+    "enableGameUpdateNotificationsApiMigration": "false"
 }
