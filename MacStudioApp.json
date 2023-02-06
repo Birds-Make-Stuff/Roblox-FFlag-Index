@@ -3508,7 +3508,7 @@
     "FStringDevForumRootUrl": "https://devforum.roblox.com/",
     "FStringStudioPluginsBacktraceToken": "37f816e4fd552fe0e43209ded2937e0d8a9bfd1790b866891988b56bc6f9410c",
     "DFFlagInferredCrashSystemSuccessReportMove": "True",
-    "DFFlagRenderTC2_6": "True",
+    "DFFlagRenderTC2_6": "False",
     "FFlagFixScreenScaleAlwaysBeingOne": "True",
     "DFStringRobloxAnalyticsSubDomain": "studio-ecsv2",
     "DFIntAnalyticsDeferredEventIngestMaxPostByteSize": "10000",
@@ -3531,8 +3531,8 @@
     "FStringFeature_CookieProtocolEnabled": "496;100",
     "FFlagDebugLuaAppValidateProps": "True",
     "DFLogTrackHttpRequest": "0",
-    "FStringFlagRepoGitHashFastString": "90bdb709a46ea702d763d579ff006742f0440566",
-    "DFStringFlagRepoGitHashDynamicString": "90bdb709a46ea702d763d579ff006742f0440566",
-    "FStringFlipTimeStampFastString": "2023-02-06T23:08:43.939Z",
-    "DFStringFlipTimeStampDynamicString": "2023-02-06T23:08:43.939Z"
+    "FStringFlagRepoGitHashFastString": "4a03dfc7206d85befecdf632026ef6495d9f6d3f",
+    "DFStringFlagRepoGitHashDynamicString": "4a03dfc7206d85befecdf632026ef6495d9f6d3f",
+    "FStringFlipTimeStampFastString": "2023-02-06T23:11:42.797Z",
+    "DFStringFlipTimeStampDynamicString": "2023-02-06T23:11:42.797Z"
 }
