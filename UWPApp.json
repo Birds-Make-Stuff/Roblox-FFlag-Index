@@ -607,7 +607,7 @@
     "FFlagWin32BacktraceWindowsLaunchType": "True",
     "DFFlagChattedLimitsEnabled": "True",
     "DFIntChattedMessageMaxLength": "1000",
-    "FStringMinOSVersionForIOS": "11.0",
+    "FStringMinOSVersionForIOS": "9.0",
     "DFIntAbuseReportV2Percentage": "100",
     "FFlagNoHardcodedStringInLuaKickMessage": "True",
     "FStringPivotEditorLearnMoreUrl": "https://devforum.roblox.com/t/pivot-points-studio-beta/1180689",
@@ -1649,7 +1649,7 @@
     "FFlagFacialAnimationRecordingBetaFeature": "True",
     "FFlagContactImporterAndPYMKEnabled_v1": "True",
     "FFlagLuaGetContactsAccessPreTest": "True",
-    "FFlagAXUseCheckApplyDefaultClothing": "True",
+    "FFlagAXUseCheckApplyDefaultClothing": "False",
     "DFFlagReportPacketQueueSizeStats": "True",
     "DFFlagReportLargePacketQueueSizeStats": "True",
     "FFlagStudioUpdateViewportOnEmulatedDeviceChange": "True",
@@ -3517,8 +3517,8 @@
     "FFlagLuaAppColorSystem1_1TestCache1": "True",
     "FFlagLuaAppColorSystem1_1TestEnabled1": "True",
     "FFlagLuaAppUseUIBloxColorPalettes1": "True",
-    "FStringFlagRepoGitHashFastString": "a7beef0fcdfbb807bfc0ede95d4b00201b9571a3",
-    "DFStringFlagRepoGitHashDynamicString": "a7beef0fcdfbb807bfc0ede95d4b00201b9571a3",
-    "FStringFlipTimeStampFastString": "2023-02-06T23:21:46.639Z",
-    "DFStringFlipTimeStampDynamicString": "2023-02-06T23:21:46.639Z"
+    "FStringFlagRepoGitHashFastString": "8d4bf5d88775b7969e0a32ceaae9ca259cbb6946",
+    "DFStringFlagRepoGitHashDynamicString": "8d4bf5d88775b7969e0a32ceaae9ca259cbb6946",
+    "FStringFlipTimeStampFastString": "2023-02-06T23:31:02.673Z",
+    "DFStringFlipTimeStampDynamicString": "2023-02-06T23:31:02.673Z"
 }
