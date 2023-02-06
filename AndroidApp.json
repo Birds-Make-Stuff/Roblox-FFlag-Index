@@ -3309,6 +3309,7 @@
     "DFFlagReportPackageModCheckAnalytics": "True",
     "FFlagFixGameDetailsAutomaticSize": "True",
     "FFlagUserFixCameraPanAfterShiftLock": "False",
+    "FFlagBootcampADS1937": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -3580,7 +3581,7 @@
     "DFIntCLI52218j": "1",
     "DFIntCLI52218k": "1",
     "DFIntCLI52218l": "1",
-    "DFIntCLI52218m": "100",
+    "DFIntCLI52218m": "1000",
     "DFIntCLI52218n": "10",
     "DFIntCLI52218o": "1",
     "DFIntCLI52218y": "1",
@@ -3653,8 +3654,8 @@
     "FStringProfileQRPageLoadFailed": "ProfileQRPageLoadFailedAndroid",
     "FFlagProfileQRCodeReducerEnabled_v1": "True",
     "FFlagProfileQRCodeEnableExperiment": "True",
-    "FStringFlagRepoGitHashFastString": "47c5b775b7ed481e5094ced5fb597fa818e177ee",
-    "DFStringFlagRepoGitHashDynamicString": "47c5b775b7ed481e5094ced5fb597fa818e177ee",
-    "FStringFlipTimeStampFastString": "2023-02-06T23:01:22.620Z",
-    "DFStringFlipTimeStampDynamicString": "2023-02-06T23:01:22.620Z"
+    "FStringFlagRepoGitHashFastString": "90bdb709a46ea702d763d579ff006742f0440566",
+    "DFStringFlagRepoGitHashDynamicString": "90bdb709a46ea702d763d579ff006742f0440566",
+    "FStringFlipTimeStampFastString": "2023-02-06T23:08:43.939Z",
+    "DFStringFlipTimeStampDynamicString": "2023-02-06T23:08:43.939Z"
 }
