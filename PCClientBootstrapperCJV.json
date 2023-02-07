@@ -16,5 +16,7 @@
     "FFlagMacBootstrapperUniqueDownloadDir": "True",
     "FFlagStudioExportSVGTextures": "True",
     "FFlagStudioFixSameVersionChannelUpdateProblem": "True",
-    "FFlagFileDeployerPathLimitFix": "True"
+    "FFlagFileDeployerPathLimitFix": "True",
+    "FFlagTrackMacWebLaunchFlow": "True",
+    "FFlagTrackWinWebLaunchFlow": "True"
 }
