@@ -1453,7 +1453,6 @@
     "FFlagLuaProfileIXPEnabled_v3": "False",
     "FFlagSharedStringsDistribute": "True",
     "DFFlagFixReplicatedFirstMetrics": "True",
-    "FFlagSimModelLodFixSpottyColor": "False",
     "DFIntOAuth2TokenHttpRequestTelemetryHundredthsPercent": "10000",
     "DFFlagReportHumanoidRigAndModelTypeIfDifferent": "True",
     "DFFlagReportHumanoidRigUpdate": "True",
@@ -3345,11 +3344,11 @@
     "FFlagEnableInvitePromptLoadingState": "True",
     "DFFlagDynamicFastVariableReloaderTest1_Rollout": "True;60;2023-02-08T00:25:33",
     "DFIntSimModelLodVoxelNumPerAxis": "16",
-    "FFlagSimModelLodFixMarchingCubeColor": "True",
     "DFFlagAESMoreOutfitMethods2": "True",
     "FFlagAvatarEditorServiceOutfitMethodsInApp": "True",
     "FFlagAvoidManualTableClone2": "True",
     "FFlagLuaAppOmniSearchSessionRealUuid": "True",
+    "DFFlagPackageAutoUpdateInStudio": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -3550,8 +3549,8 @@
     "FIntShareInviteLinkContextMenuV1RolloutPercentage": "0",
     "DFIntDataPing2ReportByRPRInfluxHundredthsPercentage_PlaceFilter": "10000;9588998913",
     "DFFlagFixMissingLocaleIdOnMacStartup": "True",
-    "FStringFlagRepoGitHashFastString": "64fbed22dca90d280f82ea3ba9fcc7d1d67bc56a",
-    "DFStringFlagRepoGitHashDynamicString": "64fbed22dca90d280f82ea3ba9fcc7d1d67bc56a",
-    "FStringFlipTimeStampFastString": "2023-02-08T18:49:44.425Z",
-    "DFStringFlipTimeStampDynamicString": "2023-02-08T18:49:44.425Z"
+    "FStringFlagRepoGitHashFastString": "42dc38cc7f78ccbc38f3af0c2fbafd1de376a404",
+    "DFStringFlagRepoGitHashDynamicString": "42dc38cc7f78ccbc38f3af0c2fbafd1de376a404",
+    "FStringFlipTimeStampFastString": "2023-02-08T19:47:19.036Z",
+    "DFStringFlipTimeStampDynamicString": "2023-02-08T19:47:19.036Z"
 }
