@@ -33,8 +33,8 @@
     "ShowInstallSuccessPrompt": "True",
     "FFlagEnableRandomRobloxChannelSelection": "True",
     "FStringClientChannelProbabilityString": "1000;ZFlag=50",
-    "FStringFlagRepoGitHashFastString": "03d8226dd0aec4d37a89beb79a2fedb03fa702ea",
-    "DFStringFlagRepoGitHashDynamicString": "03d8226dd0aec4d37a89beb79a2fedb03fa702ea",
-    "FStringFlipTimeStampFastString": "2023-02-08T19:58:07.547Z",
-    "DFStringFlipTimeStampDynamicString": "2023-02-08T19:58:07.547Z"
+    "FStringFlagRepoGitHashFastString": "ec8428cfc2f7b0f156bc72bda5e5c5b0a3e795f2",
+    "DFStringFlagRepoGitHashDynamicString": "ec8428cfc2f7b0f156bc72bda5e5c5b0a3e795f2",
+    "FStringFlipTimeStampFastString": "2023-02-08T20:54:42.938Z",
+    "DFStringFlipTimeStampDynamicString": "2023-02-08T20:54:42.938Z"
 }
