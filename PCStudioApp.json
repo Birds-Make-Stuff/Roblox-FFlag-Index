@@ -3351,6 +3351,9 @@
     "DFFlagPredictedOOMMessageKeepPlayingLeave": "True",
     "DFFlagAudioGraphThrottling_PlaceFilter": "False;10490962267",
     "FFlagUserCameraGamepadZoomFix": "False",
+    "FFlagVoiceChatEnableBlockTelemetry": "True",
+    "FFlagSendKeyboardUINavigationNotificationOnEnable": "True",
+    "FFlagLuaAppAddExposureForPlayerSearchPage": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -3573,8 +3576,8 @@
     "FFlagDebugLuaAppValidateProps": "True",
     "FStringFeature_CookieProtocolEnabled": "524;100",
     "FFlagSimCSGV3LogCSGTreeForCrashNewOperator": "True",
-    "FStringFlagRepoGitHashFastString": "823fdd5311492f2b7e37206f9e98ae5c03aef295",
-    "DFStringFlagRepoGitHashDynamicString": "823fdd5311492f2b7e37206f9e98ae5c03aef295",
-    "FStringFlipTimeStampFastString": "2023-02-09T00:05:55.465Z",
-    "DFStringFlipTimeStampDynamicString": "2023-02-09T00:05:55.465Z"
+    "FStringFlagRepoGitHashFastString": "40ef3e47d7200cd9acc1b4b76c70a52568af91c8",
+    "DFStringFlagRepoGitHashDynamicString": "40ef3e47d7200cd9acc1b4b76c70a52568af91c8",
+    "FStringFlipTimeStampFastString": "2023-02-09T01:54:44.000Z",
+    "DFStringFlipTimeStampDynamicString": "2023-02-09T01:54:44.000Z"
 }
