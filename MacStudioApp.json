@@ -3446,6 +3446,8 @@
     "FFlagLuauSubstitutionFixMissingFields": "True",
     "DFFlagDeserializeTrackerDataOnRCC": "True",
     "FFlagEnableStringListRobloxTelemetry": "True",
+    "FFlagRefactorGetProgram": "True",
+    "DFFlagCheckForExpiringPrefetchRequests_Rollout": "True;60;2023-02-14T22:24:47",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -3669,8 +3671,8 @@
     "FStringFeature_CookieProtocolEnabled": "496;100",
     "FFlagDebugLuaAppValidateProps": "True",
     "DFLogTrackHttpRequest": "0",
-    "FStringFlagRepoGitHashFastString": "ae1d81c825b714c7f4219f62233a16d0544abe4b",
-    "DFStringFlagRepoGitHashDynamicString": "ae1d81c825b714c7f4219f62233a16d0544abe4b",
-    "FStringFlipTimeStampFastString": "2023-02-14T21:33:54.138Z",
-    "DFStringFlipTimeStampDynamicString": "2023-02-14T21:33:54.138Z"
+    "FStringFlagRepoGitHashFastString": "76bd5c3ba0b2d9720721accce586335a1a0aad0b",
+    "DFStringFlagRepoGitHashDynamicString": "76bd5c3ba0b2d9720721accce586335a1a0aad0b",
+    "FStringFlipTimeStampFastString": "2023-02-14T22:25:32.056Z",
+    "DFStringFlipTimeStampDynamicString": "2023-02-14T22:25:32.056Z"
 }
