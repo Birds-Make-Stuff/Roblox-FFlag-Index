@@ -2885,7 +2885,6 @@
     "FFlagProfileAliasEnabled_v5": "True",
     "DFFlagZoomToExtentsFix": "True",
     "FFlagEmotesSelectedCoreObjectError": "True",
-    "FFlagSimSolverGeometricStiffness3_PlaceFilter": "False;8130047126",
     "DFFlagFixAddAppSessionCommonPoints": "True",
     "FFlagSessionTelemetryApp": "False",
     "FFlagDisconnectLuaPropagationDuringClearSelection": "True",
@@ -3448,6 +3447,11 @@
     "FFlagEnableStringListRobloxTelemetry": "True",
     "FFlagRefactorGetProgram": "True",
     "DFFlagCheckForExpiringPrefetchRequests_Rollout": "True;60;2023-02-14T22:24:47",
+    "DFIntGeometricStiffnessAlpha": "50",
+    "DFIntGeometricStiffnessAlpha_PlaceFilter": "100;8130047126",
+    "FFlagAXFixCustomizeShopNavOrder": "True",
+    "FIntLuaAppRecommendedGamesCount": "20",
+    "FFlagLuaAppIncreaseRecommendedGamesFetchLimit": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -3787,8 +3791,8 @@
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
     "FFlagAppBridgeStartupController": "True",
-    "FStringFlagRepoGitHashFastString": "76bd5c3ba0b2d9720721accce586335a1a0aad0b",
-    "DFStringFlagRepoGitHashDynamicString": "76bd5c3ba0b2d9720721accce586335a1a0aad0b",
-    "FStringFlipTimeStampFastString": "2023-02-14T22:25:32.056Z",
-    "DFStringFlipTimeStampDynamicString": "2023-02-14T22:25:32.056Z"
+    "FStringFlagRepoGitHashFastString": "947de0a5ac59121ab29393d49e9b8df56d67a0ad",
+    "DFStringFlagRepoGitHashDynamicString": "947de0a5ac59121ab29393d49e9b8df56d67a0ad",
+    "FStringFlipTimeStampFastString": "2023-02-14T23:49:55.346Z",
+    "DFStringFlipTimeStampDynamicString": "2023-02-14T23:49:55.346Z"
 }
