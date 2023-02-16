@@ -18,5 +18,6 @@
     "FFlagStudioFixSameVersionChannelUpdateProblem": "True",
     "FFlagFileDeployerPathLimitFix": "True",
     "FFlagTrackMacWebLaunchFlow": "True",
-    "FFlagTrackWinWebLaunchFlow": "True"
+    "FFlagTrackWinWebLaunchFlow": "True",
+    "FFlagTrackDeeplinkLaunchFlow": "True"
 }
