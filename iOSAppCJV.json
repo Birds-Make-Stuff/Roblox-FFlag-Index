@@ -3466,6 +3466,8 @@
     "FFlagSoundServiceListenerUseCircularBuffer": "True",
     "FFlagLoadMetalLibFromiOSFramework": "True",
     "DFFlagDataStore2IfNoneMatchHeaderFix": "True",
+    "FFlagSimModelLodUseSmallerMesh": "True",
+    "FIntPromiseMigrateTo0_3_4Rollout": "25",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -3805,8 +3807,8 @@
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
     "FFlagAppBridgeStartupController": "True",
-    "FStringFlagRepoGitHashFastString": "4b3ea111b527a5c8909321d82e9aaf45f3741b88",
-    "DFStringFlagRepoGitHashDynamicString": "4b3ea111b527a5c8909321d82e9aaf45f3741b88",
-    "FStringFlipTimeStampFastString": "2023-02-16T01:24:13.706Z",
-    "DFStringFlipTimeStampDynamicString": "2023-02-16T01:24:13.706Z"
+    "FStringFlagRepoGitHashFastString": "0d2c708151af2899e9b58bfb74e0941cd44de823",
+    "DFStringFlagRepoGitHashDynamicString": "0d2c708151af2899e9b58bfb74e0941cd44de823",
+    "FStringFlipTimeStampFastString": "2023-02-16T18:38:36.585Z",
+    "DFStringFlipTimeStampDynamicString": "2023-02-16T18:38:36.585Z"
 }
