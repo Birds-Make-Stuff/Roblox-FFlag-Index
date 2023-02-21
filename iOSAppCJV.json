@@ -2863,7 +2863,7 @@
     "FFlagServerIsPresentToDM": "True",
     "FFlagUpdateInitialPoses": "True",
     "DFIntLocalizationTableAnalyticsSenderMaxEntriesPerRemoteEvent": "5",
-    "FIntStudioMemoryThresholdAllocationDivisor": "2",
+    "FIntStudioMemoryThresholdAllocationDivisor": "1",
     "FIntBacktraceUseSyncPercentage": "100",
     "FFlagFixOldHomeFlashWhenAsyncOn": "True",
     "FFlagLuaAppFixAddGamesOnExit": "True",
@@ -3832,8 +3832,8 @@
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
     "FFlagAppBridgeStartupController": "True",
-    "FStringFlagRepoGitHashFastString": "69dc205cb6cde9b25375011a8b2b72fb0339ae11",
-    "DFStringFlagRepoGitHashDynamicString": "69dc205cb6cde9b25375011a8b2b72fb0339ae11",
-    "FStringFlipTimeStampFastString": "2023-02-17T22:05:41.831Z",
-    "DFStringFlipTimeStampDynamicString": "2023-02-17T22:05:41.831Z"
+    "FStringFlagRepoGitHashFastString": "ed03b7e9d4db3c056cfc7173bf03f435224770d6",
+    "DFStringFlagRepoGitHashDynamicString": "ed03b7e9d4db3c056cfc7173bf03f435224770d6",
+    "FStringFlipTimeStampFastString": "2023-02-21T18:23:07.067Z",
+    "DFStringFlipTimeStampDynamicString": "2023-02-21T18:23:07.067Z"
 }
