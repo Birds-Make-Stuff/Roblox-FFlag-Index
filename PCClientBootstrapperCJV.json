@@ -19,5 +19,6 @@
     "FFlagFileDeployerPathLimitFix": "True",
     "FFlagTrackMacWebLaunchFlow": "True",
     "FFlagTrackWinWebLaunchFlow": "True",
-    "FFlagTrackDeeplinkLaunchFlow": "True"
+    "FFlagTrackDeeplinkLaunchFlow": "True",
+    "FFlagDoNotUseInternetExplorerElevationPolicyRegistry": "True"
 }
