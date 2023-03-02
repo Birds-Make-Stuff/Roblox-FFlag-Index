@@ -19,7 +19,6 @@
     "FFlagFileDeployerPathLimitFix": "True",
     "FFlagTrackMacWebLaunchFlow": "True",
     "FFlagTrackWinWebLaunchFlow": "True",
-    "FFlagTrackDeeplinkLaunchFlow": "True",
     "FFlagDoNotUseInternetExplorerElevationPolicyRegistry": "True",
     "FFlagWindowsBootstrapperAdditionalCdnDiagnostics2": "True",
     "FFlagBootstrapperEnableOptOutDUAR": "True",
@@ -37,8 +36,8 @@
     "FStringClientChannelProbabilityString": "1000;ZFlag=50",
     "FFlagBootstrapperCheckOSBitPreReq": "True",
     "FIntWin32BitClientDeprecationLevel": "1",
-    "FStringFlagRepoGitHashFastString": "f7ceb58fe85d66d06949c76bc4924159e0792fd8",
-    "DFStringFlagRepoGitHashDynamicString": "f7ceb58fe85d66d06949c76bc4924159e0792fd8",
-    "FStringFlipTimeStampFastString": "2023-03-02T02:39:05.287Z",
-    "DFStringFlipTimeStampDynamicString": "2023-03-02T02:39:05.287Z"
+    "FStringFlagRepoGitHashFastString": "10f1ac91b260160a0dcb63f8361c2a6c3547c67a",
+    "DFStringFlagRepoGitHashDynamicString": "10f1ac91b260160a0dcb63f8361c2a6c3547c67a",
+    "FStringFlipTimeStampFastString": "2023-03-02T23:42:46.295Z",
+    "DFStringFlipTimeStampDynamicString": "2023-03-02T23:42:46.295Z"
 }
