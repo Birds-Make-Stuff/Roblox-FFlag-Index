@@ -19,5 +19,8 @@
     "FFlagFileDeployerPathLimitFix": "True",
     "FFlagTrackMacWebLaunchFlow": "True",
     "FFlagTrackWinWebLaunchFlow": "True",
-    "FFlagDoNotUseInternetExplorerElevationPolicyRegistry": "True"
+    "FFlagDoNotUseInternetExplorerElevationPolicyRegistry": "True",
+    "FFlagEnableCleanPreviousDownloadCacheFolder": "True",
+    "FFlagEnableSeparateDownloadCacheFolder": "True",
+    "FFlagFileDeletionPathLimitFix": "True"
 }
