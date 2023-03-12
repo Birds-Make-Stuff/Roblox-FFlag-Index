@@ -3557,7 +3557,6 @@
     "FFlagSimSanitizeCFrameInBasePartSetPhysics": "True",
     "DFFlagTrackerDataRecvCheckReplicationContainer": "True",
     "DFFlagFixAccoutrementWeldCreationForCloudEdit4": "True",
-    "FFlagSimCSGV3PruneNonManifoldVertexGraphCrash": "True",
     "FFlagExplorerFiltering_BetterColors_Cloud": "True",
     "FFlagNewExplorerFilteringBetaFeature": "True",
     "FStringNewExplorerFilteringBetaFeatureUrl": "https://devforum.roblox.com/t/explorer-search-improvements/2196033",
@@ -4188,8 +4187,8 @@
     "DFFlagRenderTC2_6_PlaceFilter": "False;11781792372",
     "FStringShareLinkAppOpen": "ShareLinkAppOpenWindowsClient",
     "FStringShareLinkResolved": "ShareLinkResolvedWindowsClient",
-    "FStringFlagRepoGitHashFastString": "ac821e488cb44f0585f12cfc14d6b2cec62a9a22",
-    "DFStringFlagRepoGitHashDynamicString": "ac821e488cb44f0585f12cfc14d6b2cec62a9a22",
-    "FStringFlipTimeStampFastString": "2023-03-10T23:48:07.123Z",
-    "DFStringFlipTimeStampDynamicString": "2023-03-10T23:48:07.123Z"
+    "FStringFlagRepoGitHashFastString": "b59c6b95bf147a5ab2454de94710213e872f124e",
+    "DFStringFlagRepoGitHashDynamicString": "b59c6b95bf147a5ab2454de94710213e872f124e",
+    "FStringFlipTimeStampFastString": "2023-03-11T22:50:51.698Z",
+    "DFStringFlipTimeStampDynamicString": "2023-03-11T22:50:51.698Z"
 }

@@ -20,8 +20,8 @@
     "FFlagTrackMacWebLaunchFlow": "True",
     "FFlagTrackWinWebLaunchFlow": "True",
     "FFlagDoNotUseInternetExplorerElevationPolicyRegistry": "True",
-    "FFlagEnableCleanPreviousDownloadCacheFolder": "True",
-    "FFlagEnableSeparateDownloadCacheFolder": "True",
+    "FFlagEnableCleanPreviousDownloadCacheFolder": "False",
+    "FFlagEnableSeparateDownloadCacheFolder": "False",
     "FFlagFileDeletionPathLimitFix": "True",
     "DFIntCrashUploadToBacktracePercentage": "10",
     "DeprecatedOSXLinkURL": "https://en.help.roblox.com/hc/articles/203312800",
@@ -39,8 +39,8 @@
     "FStringClientChannelProbabilityString": "1000;ZFlag=50",
     "FFlagEnableDeepLinkUseExistingClient": "True",
     "FFlagEnableSingleInstanceRobloxClient": "True",
-    "FStringFlagRepoGitHashFastString": "ac821e488cb44f0585f12cfc14d6b2cec62a9a22",
-    "DFStringFlagRepoGitHashDynamicString": "ac821e488cb44f0585f12cfc14d6b2cec62a9a22",
-    "FStringFlipTimeStampFastString": "2023-03-10T23:48:07.123Z",
-    "DFStringFlipTimeStampDynamicString": "2023-03-10T23:48:07.123Z"
+    "FStringFlagRepoGitHashFastString": "b59c6b95bf147a5ab2454de94710213e872f124e",
+    "DFStringFlagRepoGitHashDynamicString": "b59c6b95bf147a5ab2454de94710213e872f124e",
+    "FStringFlipTimeStampFastString": "2023-03-11T22:50:51.698Z",
+    "DFStringFlipTimeStampDynamicString": "2023-03-11T22:50:51.698Z"
 }
