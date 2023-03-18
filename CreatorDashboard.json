@@ -36,5 +36,6 @@
     "enableDeveloperProductsApiMigration": "true",
     "enableGameUpdateNotificationsApiMigration": "true",
     "enableLocalizationCsvManagement": "false",
-    "enableTeamCreatePreLaunch": "true"
+    "enableTeamCreatePreLaunch": "true",
+    "enableDashboardRedirect": "true"
 }
