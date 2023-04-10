@@ -24,6 +24,7 @@
     "FFlagEnableSeparateDownloadCacheFolder": "False",
     "FFlagFileDeletionPathLimitFix": "True",
     "FFlagCreateDirectoryRecursivelyWin32": "True",
+    "FFlagUseNewErrorDescriptionFunction": "True",
     "FFlagWindowsBootstrapperAdditionalCdnDiagnostics2": "True",
     "FFlagBootstrapperEnableOptOutDUAR": "True",
     "FFlagBootstrapperDeprecateWin32DesktopApps": "True",
@@ -42,8 +43,8 @@
     "FStringClientChannelProbabilityString": "1000;zflag=50",
     "FFlagBootstrapperCheckOSBitPreReq": "True",
     "FIntWin32BitClientDeprecationLevel": "1",
-    "FStringFlagRepoGitHashFastString": "97d7f3c4c1bc69bd2aea7af07c165729cf2f492a",
-    "DFStringFlagRepoGitHashDynamicString": "97d7f3c4c1bc69bd2aea7af07c165729cf2f492a",
-    "FStringFlipTimeStampFastString": "2023-04-07T00:31:19.430Z",
-    "DFStringFlipTimeStampDynamicString": "2023-04-07T00:31:19.430Z"
+    "FStringFlagRepoGitHashFastString": "a2b21736d73032a9583a1dd158c0af653d106c78",
+    "DFStringFlagRepoGitHashDynamicString": "a2b21736d73032a9583a1dd158c0af653d106c78",
+    "FStringFlipTimeStampFastString": "2023-04-10T20:45:59.679Z",
+    "DFStringFlipTimeStampDynamicString": "2023-04-10T20:45:59.679Z"
 }

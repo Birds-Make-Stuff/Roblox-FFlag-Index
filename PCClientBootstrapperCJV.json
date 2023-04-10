@@ -23,5 +23,6 @@
     "FFlagEnableCleanPreviousDownloadCacheFolder": "False",
     "FFlagEnableSeparateDownloadCacheFolder": "False",
     "FFlagFileDeletionPathLimitFix": "True",
-    "FFlagCreateDirectoryRecursivelyWin32": "True"
+    "FFlagCreateDirectoryRecursivelyWin32": "True",
+    "FFlagUseNewErrorDescriptionFunction": "True"
 }
