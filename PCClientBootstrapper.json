@@ -29,6 +29,7 @@
     "FFlagBootstrapperEnableOptOutDUAR": "True",
     "FFlagBootstrapperDeprecateWin32DesktopApps": "True",
     "FIntWin32DesktopAppsDeprecationLevel": "1",
+    "FIntWin32DesktopAppsDeprecationLevel2": "2",
     "DFIntCrashUploadToBacktracePercentage": "100",
     "ExeVersion": "0.482.0.424268",
     "FFlagJoinTimeCounters": "True",
@@ -43,8 +44,8 @@
     "FStringClientChannelProbabilityString": "1000;zflag=50",
     "FFlagBootstrapperCheckOSBitPreReq": "True",
     "FIntWin32BitClientDeprecationLevel": "1",
-    "FStringFlagRepoGitHashFastString": "e9431b789a91c40b789378611de38386d1ad16a1",
-    "DFStringFlagRepoGitHashDynamicString": "e9431b789a91c40b789378611de38386d1ad16a1",
-    "FStringFlipTimeStampFastString": "2023-04-13T01:07:11.408Z",
-    "DFStringFlipTimeStampDynamicString": "2023-04-13T01:07:11.408Z"
+    "FStringFlagRepoGitHashFastString": "bbf1705c0defa8201860b39baf77a4ba79a4db16",
+    "DFStringFlagRepoGitHashDynamicString": "bbf1705c0defa8201860b39baf77a4ba79a4db16",
+    "FStringFlipTimeStampFastString": "2023-04-13T20:36:49.992Z",
+    "DFStringFlipTimeStampDynamicString": "2023-04-13T20:36:49.992Z"
 }
