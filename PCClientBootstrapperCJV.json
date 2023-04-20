@@ -24,5 +24,7 @@
     "FFlagEnableSeparateDownloadCacheFolder": "False",
     "FFlagFileDeletionPathLimitFix": "True",
     "FFlagCreateDirectoryRecursivelyWin32": "True",
-    "FFlagUseNewErrorDescriptionFunction": "True"
+    "FFlagUseNewErrorDescriptionFunction": "True",
+    "FFlagRobloxPlayerInstallWebView2Runtime": "True",
+    "DFFlagEnableTelemetryAppNameOverride": "True"
 }

@@ -1,4 +1,5 @@
 {
+    "enableLimitSocialSlotAllowedRange": "false",
     "enableQuestionnaireRestrictionViewingMode": "true",
     "enableNewChartsForAnalytics": "true",
     "enableExperienceGuidelinesView": "true",
