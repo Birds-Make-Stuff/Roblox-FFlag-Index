@@ -37,8 +37,8 @@
     "InfluxInstallHundredthsPercentage": "1",
     "FFlagWindowsInstallerEnableDpiAwareness": "True",
     "FFlagWindowsMonitorAnalytics": "True",
-    "FStringFlagRepoGitHashFastString": "158df198fd81d2c98ac99a154348e778daf7c493",
-    "DFStringFlagRepoGitHashDynamicString": "158df198fd81d2c98ac99a154348e778daf7c493",
-    "FStringFlipTimeStampFastString": "2023-04-21T00:53:55.139Z",
-    "DFStringFlipTimeStampDynamicString": "2023-04-21T00:53:55.139Z"
+    "FStringFlagRepoGitHashFastString": "6046a5be9ab199f3243128f7a6c3df43201d4f58",
+    "DFStringFlagRepoGitHashDynamicString": "6046a5be9ab199f3243128f7a6c3df43201d4f58",
+    "FStringFlipTimeStampFastString": "2023-04-21T23:07:26.911Z",
+    "DFStringFlipTimeStampDynamicString": "2023-04-21T23:07:26.911Z"
 }
