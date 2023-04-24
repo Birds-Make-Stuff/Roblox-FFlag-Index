@@ -21,7 +21,7 @@
     "FFlagTrackWinWebLaunchFlow": "True",
     "FFlagDoNotUseInternetExplorerElevationPolicyRegistry": "True",
     "FFlagEnableCleanPreviousDownloadCacheFolder": "False",
-    "FFlagEnableSeparateDownloadCacheFolder": "False",
+    "FFlagEnableSeparateDownloadCacheFolder": "True",
     "FFlagFileDeletionPathLimitFix": "True",
     "FFlagCreateDirectoryRecursivelyWin32": "True",
     "FFlagUseNewErrorDescriptionFunction": "True",
