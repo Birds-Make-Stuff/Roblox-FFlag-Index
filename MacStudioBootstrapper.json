@@ -29,8 +29,8 @@
     "DFFlagEnableTelemetryAppNameOverride": "True",
     "FIntBootstrapper64BitStudioPercentage": "5",
     "InfluxInstallHundredthsPercentage": "1",
-    "FStringFlagRepoGitHashFastString": "e24ff6e73564655ced22c7b289b79caa9c433a4f",
-    "DFStringFlagRepoGitHashDynamicString": "e24ff6e73564655ced22c7b289b79caa9c433a4f",
-    "FStringFlipTimeStampFastString": "2023-04-25T00:51:25.770Z",
-    "DFStringFlipTimeStampDynamicString": "2023-04-25T00:51:25.770Z"
+    "FStringFlagRepoGitHashFastString": "92e832c55fe4293663dbcbb13d83d7c4b04397be",
+    "DFStringFlagRepoGitHashDynamicString": "92e832c55fe4293663dbcbb13d83d7c4b04397be",
+    "FStringFlipTimeStampFastString": "2023-04-25T22:18:45.880Z",
+    "DFStringFlipTimeStampDynamicString": "2023-04-25T22:18:45.880Z"
 }
