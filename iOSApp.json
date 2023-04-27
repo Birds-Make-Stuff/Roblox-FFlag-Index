@@ -3837,7 +3837,7 @@
     "DFFlagVoiceChatRccMute": "True",
     "FFlagVoiceChatRccMuteSignalConnection": "True",
     "FFlagXboxMigrateUsernamePasswordValidation": "True",
-    "FFlagStudioLogWinIdChanges": "True",
+    "FFlagStudioLogWinIdChanges": "False",
     "FFlagSelfViewProfileDiscoverabilityUpsellIXPEnabled": "True",
     "FFlagAICOEnableStageUserInputTrigger": "False",
     "DFFlagTrackNOUInformationWithNoPhys": "True",
@@ -4823,6 +4823,7 @@
     "FStringFeature_SingleSurfaceEnabled": "572;1",
     "DFIntAnimatorTelemetryCollectionRate": "100",
     "FFlagFlagRolloutTestStaticBool1_Rollout": "False;60;2023-04-26T20:01:23",
+    "FFlagLuaAppExperienceDetailsPageFixContainerSize": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -5130,8 +5131,8 @@
     "DFFlagUnifiedCookieProtocolEnabled": "True",
     "FFlagTaskSchedulerUseRobloxRuntime": "True",
     "FFlagDoNotInitializeLuaAppIfAlreadyInitialized": "True",
-    "FStringFlagRepoGitHashFastString": "cb306623e931297fe9c6deb2fe45dc6db848bacf",
-    "DFStringFlagRepoGitHashDynamicString": "cb306623e931297fe9c6deb2fe45dc6db848bacf",
-    "FStringFlipTimeStampFastString": "2023-04-26T20:17:59.304Z",
-    "DFStringFlipTimeStampDynamicString": "2023-04-26T20:17:59.304Z"
+    "FStringFlagRepoGitHashFastString": "8914a391e6be4712b6e6e173c330d0995b7b6cec",
+    "DFStringFlagRepoGitHashDynamicString": "8914a391e6be4712b6e6e173c330d0995b7b6cec",
+    "FStringFlipTimeStampFastString": "2023-04-27T00:31:25.502Z",
+    "DFStringFlipTimeStampDynamicString": "2023-04-27T00:31:25.502Z"
 }
