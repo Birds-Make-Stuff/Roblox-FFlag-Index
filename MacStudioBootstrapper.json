@@ -27,10 +27,12 @@
     "FFlagUseNewErrorDescriptionFunction": "True",
     "FFlagRobloxPlayerInstallWebView2Runtime": "True",
     "DFFlagEnableTelemetryAppNameOverride": "True",
+    "FFlagClearCachedChannelOnLaunch": "True",
+    "FFlagClearCachedChannelOnLaunchZFlagOnly": "True",
     "FIntBootstrapper64BitStudioPercentage": "5",
     "InfluxInstallHundredthsPercentage": "1",
-    "FStringFlagRepoGitHashFastString": "950293c66e9ef127e3cadf43f4201758ed9e40dd",
-    "DFStringFlagRepoGitHashDynamicString": "950293c66e9ef127e3cadf43f4201758ed9e40dd",
-    "FStringFlipTimeStampFastString": "2023-04-28T01:03:45.346Z",
-    "DFStringFlipTimeStampDynamicString": "2023-04-28T01:03:45.346Z"
+    "FStringFlagRepoGitHashFastString": "cbec45e7a4bb3abf50110fa6f8e81116ea85d999",
+    "DFStringFlagRepoGitHashDynamicString": "cbec45e7a4bb3abf50110fa6f8e81116ea85d999",
+    "FStringFlipTimeStampFastString": "2023-04-28T18:54:28.342Z",
+    "DFStringFlipTimeStampDynamicString": "2023-04-28T18:54:28.342Z"
 }

@@ -26,5 +26,7 @@
     "FFlagCreateDirectoryRecursivelyWin32": "True",
     "FFlagUseNewErrorDescriptionFunction": "True",
     "FFlagRobloxPlayerInstallWebView2Runtime": "True",
-    "DFFlagEnableTelemetryAppNameOverride": "True"
+    "DFFlagEnableTelemetryAppNameOverride": "True",
+    "FFlagClearCachedChannelOnLaunch": "True",
+    "FFlagClearCachedChannelOnLaunchZFlagOnly": "True"
 }
