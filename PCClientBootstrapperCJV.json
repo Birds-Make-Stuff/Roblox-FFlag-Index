@@ -28,5 +28,8 @@
     "FFlagRobloxPlayerInstallWebView2Runtime": "True",
     "DFFlagEnableTelemetryAppNameOverride": "True",
     "FFlagClearCachedChannelOnLaunch": "True",
-    "FFlagClearCachedChannelOnLaunchZFlagOnly": "True"
+    "FFlagClearCachedChannelOnLaunchZFlagOnly": "True",
+    "FFlagWindowsBootstrapperStaticCdn": "True",
+    "FFlagMacBootstrapperStaticCdn": "True",
+    "FFlagMacOSInstallerUseStaticCdn": "True"
 }
