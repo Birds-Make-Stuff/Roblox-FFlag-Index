@@ -20,7 +20,7 @@
     "FFlagTrackMacWebLaunchFlow": "True",
     "FFlagTrackWinWebLaunchFlow": "True",
     "FFlagDoNotUseInternetExplorerElevationPolicyRegistry": "True",
-    "FFlagEnableCleanPreviousDownloadCacheFolder": "False",
+    "FFlagEnableCleanPreviousDownloadCacheFolder": "True",
     "FFlagEnableSeparateDownloadCacheFolder": "True",
     "FFlagFileDeletionPathLimitFix": "True",
     "FFlagCreateDirectoryRecursivelyWin32": "True",
