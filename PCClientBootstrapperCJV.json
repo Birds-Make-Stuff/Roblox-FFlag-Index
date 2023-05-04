@@ -31,5 +31,6 @@
     "FFlagClearCachedChannelOnLaunchZFlagOnly": "True",
     "FFlagWindowsBootstrapperStaticCdn": "True",
     "FFlagMacBootstrapperStaticCdn": "True",
-    "FFlagMacOSInstallerUseStaticCdn": "True"
+    "FFlagMacOSInstallerUseStaticCdn": "True",
+    "DFFlagDeeplinkShouldPassToExistingClient": "True"
 }
