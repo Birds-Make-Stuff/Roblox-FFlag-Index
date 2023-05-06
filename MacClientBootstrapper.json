@@ -5,7 +5,7 @@
     "UseCdn": "True",
     "FFlagWindowsLaunchTypeAnalytics": "True",
     "FFlagBootstrapperQuitOnDirectXExpiration": "False",
-    "FStringDisabledRobloxChannelList": "ZReleaseVS2019,Zfeatureboost_removal_test_in_prod,Zbugfixboost-mutex-revert,zfeaturehsr2cdnplaytest2,Zproject512-boost-remove-mutex-1,Zproject516-boost-remove-mutex-network,Zfeatureinstance-parent-weak-ptr,Zfeaturebaseline,Zfeatureinstance-parent-weak-ptr-2,Zfeaturetelemlife,Zfeaturefmod-20115,ZbugfixCLI-54676-test,Zfeaturesubsystematomic,ZbugfixCLI-55214-master,Zfeatureqt5.15,Zfeatureuse-new-rapidjson-in-flag-loading,Zfeaturefmod-recording-test,Zfeaturesubsystemhttpclient,Zfeaturesignalconcurrency,Zfeatureupgrade-lz4,Zxcode13release,ZQTitanStudioRelease,ZQTitanStudioReleaseHighDpi,Zfeatureprepare-shorelines4,zqtcanary,Zfeatureupgrade-libyuv-bento4,ZfeatureLUATOOLS-121-rbxpMoonbeamReleaseTest,Zfeaturewin64_client_deploy_test",
+    "FStringDisabledRobloxChannelList": "ZReleaseVS2019,Zfeatureboost_removal_test_in_prod,Zbugfixboost-mutex-revert,zfeaturehsr2cdnplaytest2,Zproject512-boost-remove-mutex-1,Zproject516-boost-remove-mutex-network,Zfeatureinstance-parent-weak-ptr,Zfeaturebaseline,Zfeatureinstance-parent-weak-ptr-2,Zfeaturetelemlife,Zfeaturefmod-20115,ZbugfixCLI-54676-test,Zfeaturesubsystematomic,ZbugfixCLI-55214-master,Zfeatureqt5.15,Zfeatureuse-new-rapidjson-in-flag-loading,Zfeaturefmod-recording-test,Zfeaturesubsystemhttpclient,Zfeaturesignalconcurrency,Zfeatureupgrade-lz4,Zxcode13release,ZQTitanStudioRelease,ZQTitanStudioReleaseHighDpi,Zfeatureprepare-shorelines4,zqtcanary,Zfeatureupgrade-libyuv-bento4,ZfeatureLUATOOLS-121-rbxpMoonbeamReleaseTest,Zfeaturewin64_client_deploy_test,ZWinPlayer64",
     "FFlagBootstrapperSaveOptOutDUAR": "True",
     "FFlagBootstrapperAutoOptIn": "True",
     "FIntBootstrapperInfluxReportHundredthPercentage": "100",
@@ -51,8 +51,8 @@
     "FStringClientChannelProbabilityString": "1000;zflag=50",
     "FFlagEnableDeepLinkUseExistingClient": "True",
     "FFlagEnableSingleInstanceRobloxClient": "True",
-    "FStringFlagRepoGitHashFastString": "67bc559a7fa35ba58f68f346d16a3969030a618d",
-    "DFStringFlagRepoGitHashDynamicString": "67bc559a7fa35ba58f68f346d16a3969030a618d",
-    "FStringFlipTimeStampFastString": "2023-05-05T00:12:43.052Z",
-    "DFStringFlipTimeStampDynamicString": "2023-05-05T00:12:43.052Z"
+    "FStringFlagRepoGitHashFastString": "33095e2bf58549bb43e29b8d5778be3bf6b11a26",
+    "DFStringFlagRepoGitHashDynamicString": "33095e2bf58549bb43e29b8d5778be3bf6b11a26",
+    "FStringFlipTimeStampFastString": "2023-05-05T23:23:46.379Z",
+    "DFStringFlipTimeStampDynamicString": "2023-05-05T23:23:46.379Z"
 }
