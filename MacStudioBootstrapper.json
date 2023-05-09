@@ -37,8 +37,8 @@
     "FFlagBootstrapperHasSeparatedPkgManifest": "True",
     "FIntBootstrapper64BitStudioPercentage": "5",
     "InfluxInstallHundredthsPercentage": "1",
-    "FStringFlagRepoGitHashFastString": "1a0eeac2b50dbce08802ad151c04d9b4cc7569cc",
-    "DFStringFlagRepoGitHashDynamicString": "1a0eeac2b50dbce08802ad151c04d9b4cc7569cc",
-    "FStringFlipTimeStampFastString": "2023-05-09T00:25:37.624Z",
-    "DFStringFlipTimeStampDynamicString": "2023-05-09T00:25:37.624Z"
+    "FStringFlagRepoGitHashFastString": "a2f4c9a7be50f38ce5f314b555ead6b8b91572b9",
+    "DFStringFlagRepoGitHashDynamicString": "a2f4c9a7be50f38ce5f314b555ead6b8b91572b9",
+    "FStringFlipTimeStampFastString": "2023-05-09T19:29:25.975Z",
+    "DFStringFlipTimeStampDynamicString": "2023-05-09T19:29:25.975Z"
 }
