@@ -31,14 +31,14 @@
     "FFlagClearCachedChannelOnLaunchZFlagOnly": "True",
     "FFlagWindowsBootstrapperStaticCdn": "True",
     "FFlagMacBootstrapperStaticCdn": "True",
-    "FFlagMacOSInstallerUseStaticCdn": "True",
+    "FFlagMacOSInstallerUseStaticCdn": "False",
     "DFFlagDeeplinkShouldPassToExistingClient": "True",
     "FFlagWinBootstrapperVistaToolRemoval": "True",
     "FFlagBootstrapperHasSeparatedPkgManifest": "True",
     "FIntBootstrapper64BitStudioPercentage": "5",
     "InfluxInstallHundredthsPercentage": "1",
-    "FStringFlagRepoGitHashFastString": "07d9ce624631fa967b5f8ea9d81d18c9248e2157",
-    "DFStringFlagRepoGitHashDynamicString": "07d9ce624631fa967b5f8ea9d81d18c9248e2157",
-    "FStringFlipTimeStampFastString": "2023-05-10T00:04:30.424Z",
-    "DFStringFlipTimeStampDynamicString": "2023-05-10T00:04:30.424Z"
+    "FStringFlagRepoGitHashFastString": "ec791d0fee18ac67b47c4a86a9a294dc988210b4",
+    "DFStringFlagRepoGitHashDynamicString": "ec791d0fee18ac67b47c4a86a9a294dc988210b4",
+    "FStringFlipTimeStampFastString": "2023-05-10T20:06:43.094Z",
+    "DFStringFlipTimeStampDynamicString": "2023-05-10T20:06:43.094Z"
 }
