@@ -34,5 +34,6 @@
     "FFlagMacOSInstallerUseStaticCdn": "False",
     "DFFlagDeeplinkShouldPassToExistingClient": "True",
     "FFlagWinBootstrapperVistaToolRemoval": "True",
-    "FFlagBootstrapperHasSeparatedPkgManifest": "True"
+    "FFlagBootstrapperHasSeparatedPkgManifest": "True",
+    "FFlagRemoveDeployBootstrapper": "True"
 }
