@@ -35,5 +35,5 @@
     "DFFlagDeeplinkShouldPassToExistingClient": "True",
     "FFlagWinBootstrapperVistaToolRemoval": "True",
     "FFlagBootstrapperHasSeparatedPkgManifest": "True",
-    "FFlagRemoveDeployBootstrapper": "True"
+    "FFlagRemoveDeployBootstrapper": "False"
 }
