@@ -38,8 +38,8 @@
     "FFlagRemoveDeployBootstrapper": "False",
     "FIntBootstrapper64BitStudioPercentage": "5",
     "InfluxInstallHundredthsPercentage": "1",
-    "FStringFlagRepoGitHashFastString": "03f98dfd8af22170455a45f71bfd887112cc7597",
-    "DFStringFlagRepoGitHashDynamicString": "03f98dfd8af22170455a45f71bfd887112cc7597",
-    "FStringFlipTimeStampFastString": "2023-05-18T00:17:53.338Z",
-    "DFStringFlipTimeStampDynamicString": "2023-05-18T00:17:53.338Z"
+    "FStringFlagRepoGitHashFastString": "b66383766fde8bc70cc0cda4bb562b1d25772326",
+    "DFStringFlagRepoGitHashDynamicString": "b66383766fde8bc70cc0cda4bb562b1d25772326",
+    "FStringFlipTimeStampFastString": "2023-05-18T23:45:15.438Z",
+    "DFStringFlipTimeStampDynamicString": "2023-05-18T23:45:15.438Z"
 }
