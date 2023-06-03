@@ -42,13 +42,14 @@
     "FFlagBootstrapperDeprecateWin32DesktopApps": "True",
     "FIntWin32DesktopAppsDeprecationLevel": "1",
     "FIntWin32DesktopAppsDeprecationLevel2": "3",
+    "FFlagWinBootstrapperUpdateStudioBinaryType": "True",
     "FFlagWindowsBootstrapperReportPerCdnDownloadSpeeds": "True",
     "FIntBootstrapper64BitStudioPercentage": "100",
     "InfluxInstallHundredthsPercentage": "1",
     "FFlagWindowsInstallerEnableDpiAwareness": "True",
     "FFlagWindowsMonitorAnalytics": "True",
-    "FStringFlagRepoGitHashFastString": "a9c29ac93a96cbbeb34845da86901b3a868b9ef2",
-    "DFStringFlagRepoGitHashDynamicString": "a9c29ac93a96cbbeb34845da86901b3a868b9ef2",
-    "FStringFlipTimeStampFastString": "2023-06-02T02:02:11.891Z",
-    "DFStringFlipTimeStampDynamicString": "2023-06-02T02:02:11.891Z"
+    "FStringFlagRepoGitHashFastString": "0d9ed6ab2a9f5d86015e3c76a1b5e2e3c0d2811e",
+    "DFStringFlagRepoGitHashDynamicString": "0d9ed6ab2a9f5d86015e3c76a1b5e2e3c0d2811e",
+    "FStringFlipTimeStampFastString": "2023-06-02T21:18:46.723Z",
+    "DFStringFlipTimeStampDynamicString": "2023-06-02T21:18:46.723Z"
 }
