@@ -36,5 +36,6 @@
     "FFlagWinBootstrapperVistaToolRemoval": "True",
     "FFlagBootstrapperHasSeparatedPkgManifest": "True",
     "FFlagRemoveDeployBootstrapper": "False",
-    "FFlagRemoveDeployBootstrapper2": "True"
+    "FFlagRemoveDeployBootstrapper2": "True",
+    "FFlagDisableInstallStudioBootstrapperFromClient": "True"
 }
