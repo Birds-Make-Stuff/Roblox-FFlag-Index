@@ -5510,8 +5510,6 @@
     "FIntIGMv1ARFlowScreenshotDelayFrames": "1",
     "AttachAndroidLogWhenCrash": "True",
     "FFlagComponentizeUserContext2": "True",
-    "FFlagLuaAppInfiniteHomePage3": "True",
-    "FFlagLuaAppInfiniteHomeSortlessGrid2": "True",
     "FFlagSearchDiscoverPhonePolicy": "True",
     "FFlagReportTopBarSearchButtonClickEvent": "True",
     "FFlagEnableBetterHapticsResultHandling": "True",
@@ -5634,6 +5632,8 @@
     "COLLAB3769FixStudioHang": "True",
     "FFlagEmoteUtilityDontUseC1ToPose2": "False",
     "FFlagACEUploadSuccessEvent": "True",
+    "FFlagLuaAppInfiniteHomePage3": "True",
+    "FFlagLuaAppInfiniteHomeSortlessGrid2": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -5980,8 +5980,8 @@
     "FFlagEnableHomePageUpsellCardRelease7": "True",
     "FFlagTrackDeeplinkLaunchFlow": "True",
     "FFlagEnableLuaPhoneVerificationExperimentRelease1": "True",
-    "FStringFlagRepoGitHashFastString": "502a68b1c29b5635f3c7f133f1b752a638608149",
-    "DFStringFlagRepoGitHashDynamicString": "502a68b1c29b5635f3c7f133f1b752a638608149",
-    "FStringFlipTimeStampFastString": "2023-06-08T01:23:51.254Z",
-    "DFStringFlipTimeStampDynamicString": "2023-06-08T01:23:51.254Z"
+    "FStringFlagRepoGitHashFastString": "d2d192307a720423ff21ea840c3d75ca31064588",
+    "DFStringFlagRepoGitHashDynamicString": "d2d192307a720423ff21ea840c3d75ca31064588",
+    "FStringFlipTimeStampFastString": "2023-06-08T20:29:43.239Z",
+    "DFStringFlipTimeStampDynamicString": "2023-06-08T20:29:43.239Z"
 }
