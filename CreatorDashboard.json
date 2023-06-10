@@ -44,5 +44,7 @@
     "enableOptionalGamePassImage": "true",
     "enableOAuthAgeVerificationCheck": "true",
     "enablePackageContentAttribution": "true",
-    "enableOAuthAppPublish": "true"
+    "enableOAuthAppPublish": "true",
+    "addDelayBeforeL2PublishCall": "true",
+    "enablePlaceThumbnailNonRootPlace": "true"
 }
