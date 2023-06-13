@@ -37,5 +37,7 @@
     "FFlagBootstrapperHasSeparatedPkgManifest": "True",
     "FFlagRemoveDeployBootstrapper": "False",
     "FFlagRemoveDeployBootstrapper2": "True",
-    "FFlagDisableInstallStudioBootstrapperFromClient": "True"
+    "FFlagDisableInstallStudioBootstrapperFromClient": "True",
+    "FFlagMacBootsrapperFirstStudioLaunchTelem": "True",
+    "FFlagRemoveSuccessDialogMacStudio": "True"
 }
