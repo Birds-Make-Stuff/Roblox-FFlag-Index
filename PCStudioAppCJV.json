@@ -5962,6 +5962,10 @@
     "FFlagAddTelemetryToAuthorizeHttpRequest": "True",
     "FFlagStudioBorrowClientCoookie": "True",
     "DFFlagTaskLibWarnSoftNonSuspended": "True",
+    "FFlagGameSettingsExperienceGuidelines17Plus": "True",
+    "FFlagManageCollaborators17Plus": "True",
+    "FFlagPublishPlaceAs17Plus": "True",
+    "FFlagStudioStartPageAgeGated": "True",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -5978,8 +5982,8 @@
     "FStringStudioDevforumUrl": "https://forum.robloxdev.cn/c/platform-feedback/studio-bugs",
     "DFFlagPolicyServiceReportIsNotSubjectToChinaPolicies": "True",
     "FFlagFailsafeHumanoid_2": "True",
-    "FStringFlagRepoGitHashFastString": "4efc987c41feb04dfef06b7e0389e8772ce2332c",
-    "DFStringFlagRepoGitHashDynamicString": "4efc987c41feb04dfef06b7e0389e8772ce2332c",
-    "FStringFlipTimeStampFastString": "2023-06-16T19:02:40.191Z",
-    "DFStringFlipTimeStampDynamicString": "2023-06-16T19:02:40.191Z"
+    "FStringFlagRepoGitHashFastString": "a2760c169b155fc38c543ba8518d24b988d5cd44",
+    "DFStringFlagRepoGitHashDynamicString": "a2760c169b155fc38c543ba8518d24b988d5cd44",
+    "FStringFlipTimeStampFastString": "2023-06-20T19:43:19.093Z",
+    "DFStringFlipTimeStampDynamicString": "2023-06-20T19:43:19.093Z"
 }

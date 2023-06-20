@@ -628,7 +628,7 @@
     "DFIntRakNetApplicationFeedbackMaxSpeedBPS": "50000000",
     "DFFlagDeprecatableBroadcasts2": "True",
     "FIntEnableBacktraceIOSV2": "100",
-    "FIntCrashUploadToBacktraceIOSPercentage": "1",
+    "FIntCrashUploadToBacktraceIOSPercentage": "5",
     "FFlagUserChatDisplayNamesEnabledByDefault": "True",
     "DFIntLmsPingExpBackoffMaxBackoffSeconds": "120",
     "DFIntLmsPingExpBackoffMaxElapsedTimeSeconds": "3600",
@@ -6044,7 +6044,8 @@
     "FFlagTrackDeeplinkLaunchFlow": "False",
     "FFlagEnableLuaPhoneVerificationExperimentRelease1": "True",
     "FLogDataModelPatchAnalytics": "6",
-    "FIntDataModelPatcherForceLocalPercentage": "100",
+    "DFFlagNotifyUnderLock": "True",
+    "DFFlagNotifyUnderLockAdditional": "True",
     "FFlagMaterialGeneratorBetaFeature": "False",
     "DFFlagPolicyServiceReportIsNotSubjectToChinaPolicies": "True",
     "DFIntDefaultTimeoutTimeMs": "20000",
@@ -6082,8 +6083,8 @@
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
     "FFlagAppBridgeStartupController": "True",
-    "FStringFlagRepoGitHashFastString": "4efc987c41feb04dfef06b7e0389e8772ce2332c",
-    "DFStringFlagRepoGitHashDynamicString": "4efc987c41feb04dfef06b7e0389e8772ce2332c",
-    "FStringFlipTimeStampFastString": "2023-06-16T19:02:40.191Z",
-    "DFStringFlipTimeStampDynamicString": "2023-06-16T19:02:40.191Z"
+    "FStringFlagRepoGitHashFastString": "a2760c169b155fc38c543ba8518d24b988d5cd44",
+    "DFStringFlagRepoGitHashDynamicString": "a2760c169b155fc38c543ba8518d24b988d5cd44",
+    "FStringFlipTimeStampFastString": "2023-06-20T19:43:19.093Z",
+    "DFStringFlipTimeStampDynamicString": "2023-06-20T19:43:19.093Z"
 }
