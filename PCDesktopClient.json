@@ -5732,8 +5732,6 @@
     "DFFlagIkControlNewInternalsApi": "True",
     "DFFlagIkControlWeightPoleWeight": "True",
     "DFFlagDisplayAdRandomizedRaycastEnabled2": "True",
-    "FFlagLuauCloneSkipNonInternalVisit_Rollout": "True;30;2023-06-21T19:40:13",
-    "FFlagEnableLeaveHomeResumeAnalytics": "True",
     "DFFlagEnableLuobuCDNDomain": "True",
     "DFIntAvatarChatSubsessionInputEventThrottleHundrethsPercentV2_PlaceFilter": "10000;11701806268;12806190892;12806247258;12806270326;12806279894;12806262789;10787386927;12867018908;10001514317;11597947993;12991298352;9793123004;5064251723;13117700215;13178556380;12867047376;11460402982;12500012844;11402255591;12796376276;12867089300;13621732500;13621737323;13621742117;13621746770",
     "DFIntAvatarChatSubsessionStatsEventThrottleHundrethsPercentV2_PlaceFilter": "10000;11701806268;12806190892;12806247258;12806270326;12806279894;12806262789;10787386927;12867018908;10001514317;11597947993;12991298352;9793123004;5064251723;13117700215;13178556380;12867047376;11460402982;12500012844;11402255591;12796376276;12867089300;13621732500;13621737323;13621742117;13621746770",
@@ -5993,8 +5991,8 @@
     "FFlagSignalRLogTotalMessageControlGroup": "True",
     "FFlagSignalRLogTotalMessageDelivered": "True",
     "FFlagEnableRealtimeRolloutCheck2": "True",
-    "FStringFlagRepoGitHashFastString": "738fb015426933c243f383df49d0fe8e9f21f1e1",
-    "DFStringFlagRepoGitHashDynamicString": "738fb015426933c243f383df49d0fe8e9f21f1e1",
-    "FStringFlipTimeStampFastString": "2023-06-21T21:35:21.199Z",
-    "DFStringFlipTimeStampDynamicString": "2023-06-21T21:35:21.199Z"
+    "FStringFlagRepoGitHashFastString": "d34cddfaf54fc461ba29c8dafdcd79d6d556fa04",
+    "DFStringFlagRepoGitHashDynamicString": "d34cddfaf54fc461ba29c8dafdcd79d6d556fa04",
+    "FStringFlipTimeStampFastString": "2023-06-21T22:24:24.135Z",
+    "DFStringFlipTimeStampDynamicString": "2023-06-21T22:24:24.135Z"
 }
