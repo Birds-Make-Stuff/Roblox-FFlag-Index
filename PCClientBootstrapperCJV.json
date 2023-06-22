@@ -38,5 +38,6 @@
     "FFlagRemoveDeployBootstrapper": "False",
     "FFlagRemoveDeployBootstrapper2": "True",
     "FFlagDisableInstallStudioBootstrapperFromClient": "True",
-    "FFlagMacBootsrapperFirstStudioLaunchTelem": "True"
+    "FFlagMacBootsrapperFirstStudioLaunchTelem": "True",
+    "FFlagWriteRegisteredApplicationsByProtocolName": "True"
 }

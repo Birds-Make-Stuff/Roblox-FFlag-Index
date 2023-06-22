@@ -39,11 +39,12 @@
     "FFlagRemoveDeployBootstrapper2": "True",
     "FFlagDisableInstallStudioBootstrapperFromClient": "True",
     "FFlagMacBootsrapperFirstStudioLaunchTelem": "True",
+    "FFlagWriteRegisteredApplicationsByProtocolName": "True",
     "FIntBootstrapper64BitStudioPercentage": "5",
     "InfluxInstallHundredthsPercentage": "1",
     "FFlagRemoveSuccessDialogMacStudio": "False",
-    "FStringFlagRepoGitHashFastString": "d34cddfaf54fc461ba29c8dafdcd79d6d556fa04",
-    "DFStringFlagRepoGitHashDynamicString": "d34cddfaf54fc461ba29c8dafdcd79d6d556fa04",
-    "FStringFlipTimeStampFastString": "2023-06-21T22:24:24.135Z",
-    "DFStringFlipTimeStampDynamicString": "2023-06-21T22:24:24.135Z"
+    "FStringFlagRepoGitHashFastString": "647bd7f05eb21d1fa691677d61de90d1cdd0128d",
+    "DFStringFlagRepoGitHashDynamicString": "647bd7f05eb21d1fa691677d61de90d1cdd0128d",
+    "FStringFlipTimeStampFastString": "2023-06-22T21:30:18.937Z",
+    "DFStringFlipTimeStampDynamicString": "2023-06-22T21:30:18.937Z"
 }
