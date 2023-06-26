@@ -5939,6 +5939,7 @@
     "FFlagEnableSingleSurfaceFlagCacheWorkaround": "True",
     "FFlagUIPageLayoutKeepNeighborOffscreenPagesIfCircular": "True",
     "FFlagEnableEvaluateAtCursorCmd": "True",
+    "FFlagPerformanceControlEnableIXPHoldoutExperiment": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -6187,7 +6188,6 @@
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagTextureManagerUsePerfControl2": "True",
-    "FFlagPerformanceControlEnableIXPHoldoutExperiment": "True",
     "FFlagDebugLuaAppValidateProps": "True",
     "FStringFeature_CookieProtocolEnabled": "524;100",
     "FFlagSimCSGV3LogCSGTreeForCrashNewOperator": "True",
@@ -6200,8 +6200,8 @@
     "FStringStudioDevforumUrl": "https://forum.robloxdev.cn/c/platform-feedback/studio-bugs",
     "DFFlagPolicyServiceReportIsNotSubjectToChinaPolicies": "True",
     "FFlagFailsafeHumanoid_2": "True",
-    "FStringFlagRepoGitHashFastString": "5ffae24612a6db694fa75ea830beb3d2acb8bd55",
-    "DFStringFlagRepoGitHashDynamicString": "5ffae24612a6db694fa75ea830beb3d2acb8bd55",
-    "FStringFlipTimeStampFastString": "2023-06-26T21:11:34.019Z",
-    "DFStringFlipTimeStampDynamicString": "2023-06-26T21:11:34.019Z"
+    "FStringFlagRepoGitHashFastString": "b1965c8c2a12094275f7cfee69c5f7dc0028c82d",
+    "DFStringFlagRepoGitHashDynamicString": "b1965c8c2a12094275f7cfee69c5f7dc0028c82d",
+    "FStringFlipTimeStampFastString": "2023-06-26T21:13:04.788Z",
+    "DFStringFlipTimeStampDynamicString": "2023-06-26T21:13:04.788Z"
 }
