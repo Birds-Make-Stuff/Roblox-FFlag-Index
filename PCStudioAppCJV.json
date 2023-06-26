@@ -5899,13 +5899,11 @@
     "FFlagLuauParseDeclareClassIndexer": "True",
     "FFlagTurnOffOldSimTouchCollector": "False",
     "FFlagTurnOffOldSimTouchCollector_PlaceFilter": "True;13603694404;5614144350;12461605266;13689224216;13683300119",
-    "FFlagPYMKSocialCommonUserTile": "True",
     "FFlagUIBloxRemoveDefaultValueForPlayerTileName": "True",
     "FFlagFriendsLandingHideRelevancyInfo": "True",
     "FFlagCollectionServiceMethodsOnInstance": "True",
     "FFlagCollectionServiceMethodsOnInstanceNullChecks": "True",
     "DFIntDevMovementChangedThrottleHundrethsPercent": "10000",
-    "FFlagDeprecateProfileModule": "True",
     "DFFlagCollectibleItemPurchaseAuthTokenEnabled": "True",
     "DFFlagAnalyticsGlobalPointsUseMutex": "True",
     "DFFlagAvatarChatServiceTelemetryIncludeServerFeatures": "True",
@@ -6201,8 +6199,8 @@
     "FStringStudioDevforumUrl": "https://forum.robloxdev.cn/c/platform-feedback/studio-bugs",
     "DFFlagPolicyServiceReportIsNotSubjectToChinaPolicies": "True",
     "FFlagFailsafeHumanoid_2": "True",
-    "FStringFlagRepoGitHashFastString": "b068e23b6158b2dfafff6714326214bde586acb3",
-    "DFStringFlagRepoGitHashDynamicString": "b068e23b6158b2dfafff6714326214bde586acb3",
-    "FStringFlipTimeStampFastString": "2023-06-26T21:30:35.447Z",
-    "DFStringFlipTimeStampDynamicString": "2023-06-26T21:30:35.447Z"
+    "FStringFlagRepoGitHashFastString": "e3ada8be8df2427d235828860297265d6e47c2f7",
+    "DFStringFlagRepoGitHashDynamicString": "e3ada8be8df2427d235828860297265d6e47c2f7",
+    "FStringFlipTimeStampFastString": "2023-06-26T21:36:34.827Z",
+    "DFStringFlipTimeStampDynamicString": "2023-06-26T21:36:34.827Z"
 }
