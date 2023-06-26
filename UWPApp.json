@@ -6140,6 +6140,7 @@
     "FFlagUseRealtimePublisher": "True",
     "FIntUseRealtimePublisherHundredthPercent": "0",
     "FFlagEnableRealtimeRolloutCheck2": "True",
+    "DFIntBatchLogMessageIngestHundredthsPercent_Rollout": "3000;30;2023-06-26T21:49:39",
     "FStringFlagRepoGitHashFastString": "02d63313bc5267b819004df72fd960b56000e201",
     "DFStringFlagRepoGitHashDynamicString": "02d63313bc5267b819004df72fd960b56000e201",
     "FStringFlipTimeStampFastString": "2023-06-26T21:48:02.590Z",
