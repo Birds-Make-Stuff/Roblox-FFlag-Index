@@ -5931,7 +5931,6 @@
     "FFlagLuauCleanPoisonedDebugContext": "True",
     "DFFlagSimTerrainRespectsCollisionGroups": "True",
     "FIntSocialTabUserProfileApiRollout": "0",
-    "DFFlagCLI71353D_Rollout": "True;60;2023-06-26T20:59:37",
     "FFlagEnableSingleSurfaceFlagCacheWorkaround": "True",
     "FFlagUIPageLayoutKeepNeighborOffscreenPagesIfCircular": "True",
     "FFlagEnableEvaluateAtCursorCmd": "True",
@@ -5952,6 +5951,10 @@
     "DFFlagFixWeakPtrIssueInGetNextRegionFunction_Rollout": "True;60;2023-06-26T22:55:56",
     "FFlagAXQuickButtonsInList": "True",
     "FFlagFixAESPromptEscapeHang": "True",
+    "DFFlagCLI71353D": "True",
+    "FFlagMaterialFrameworkFixes": "True",
+    "FFlagAvatarChatSettingsAudioLinkEnabled": "True",
+    "FFlagAvatarChatSettingsVideoLinkEnabled": "True",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -6203,8 +6206,8 @@
     "FFlagSignalRLogTotalMessageControlGroup": "True",
     "FFlagSignalRLogTotalMessageDelivered": "True",
     "FFlagEnableRealtimeRolloutCheck2": "True",
-    "FStringFlagRepoGitHashFastString": "1dcba6b648fe113af97d855ef6386779cef457bd",
-    "DFStringFlagRepoGitHashDynamicString": "1dcba6b648fe113af97d855ef6386779cef457bd",
-    "FStringFlipTimeStampFastString": "2023-06-26T22:58:50.149Z",
-    "DFStringFlipTimeStampDynamicString": "2023-06-26T22:58:50.149Z"
+    "FStringFlagRepoGitHashFastString": "02d2bb409138afa13dbb9c5293227ca7d318f893",
+    "DFStringFlagRepoGitHashDynamicString": "02d2bb409138afa13dbb9c5293227ca7d318f893",
+    "FStringFlipTimeStampFastString": "2023-06-26T23:09:37.244Z",
+    "DFStringFlipTimeStampDynamicString": "2023-06-26T23:09:37.244Z"
 }

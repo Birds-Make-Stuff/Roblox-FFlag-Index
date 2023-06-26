@@ -5931,7 +5931,6 @@
     "FFlagLuauCleanPoisonedDebugContext": "True",
     "DFFlagSimTerrainRespectsCollisionGroups": "True",
     "FIntSocialTabUserProfileApiRollout": "0",
-    "DFFlagCLI71353D_Rollout": "True;60;2023-06-26T20:59:37",
     "FFlagEnableSingleSurfaceFlagCacheWorkaround": "True",
     "FFlagUIPageLayoutKeepNeighborOffscreenPagesIfCircular": "True",
     "FFlagEnableEvaluateAtCursorCmd": "True",
@@ -5952,6 +5951,11 @@
     "DFFlagFixWeakPtrIssueInGetNextRegionFunction_Rollout": "True;60;2023-06-26T22:55:56",
     "FFlagAXQuickButtonsInList": "True",
     "FFlagFixAESPromptEscapeHang": "True",
+    "DFFlagCLI71353D": "True",
+    "FFlagMaterialFrameworkFixes": "True",
+    "FFlagAvatarChatSettingsAudioLinkEnabled": "True",
+    "FFlagAvatarChatSettingsVideoLinkEnabled": "True",
+    "FFlagLuaAppRefactorSendGameImpressions": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -6337,8 +6341,8 @@
     "DFStringLmsRecipeEndpoint": "recipe-luobu",
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
-    "FStringFlagRepoGitHashFastString": "1dcba6b648fe113af97d855ef6386779cef457bd",
-    "DFStringFlagRepoGitHashDynamicString": "1dcba6b648fe113af97d855ef6386779cef457bd",
-    "FStringFlipTimeStampFastString": "2023-06-26T22:58:50.149Z",
-    "DFStringFlipTimeStampDynamicString": "2023-06-26T22:58:50.149Z"
+    "FStringFlagRepoGitHashFastString": "552e2a3ee0ea12c5cdc02209c8e03bfb23bb8350",
+    "DFStringFlagRepoGitHashDynamicString": "552e2a3ee0ea12c5cdc02209c8e03bfb23bb8350",
+    "FStringFlipTimeStampFastString": "2023-06-26T23:15:38.145Z",
+    "DFStringFlipTimeStampDynamicString": "2023-06-26T23:15:38.145Z"
 }
