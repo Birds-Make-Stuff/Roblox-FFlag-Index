@@ -47,7 +47,7 @@
     "enableOAuthAppPublish": "true",
     "addDelayBeforeL2PublishCall": "false",
     "enablePlaceThumbnailNonRootPlace": "true",
-    "enableHiddenShutdownMenuOption": "true",
     "areThirdPartyCustomProtocolHandlersAllowed": "true",
-    "enableOrganization": "false"
+    "enableOrganization": "false",
+    "enableMigrationOptionForPlaces": "true"
 }
