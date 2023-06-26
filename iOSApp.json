@@ -5899,7 +5899,6 @@
     "FFlagLuauParseDeclareClassIndexer": "True",
     "FFlagTurnOffOldSimTouchCollector": "False",
     "FFlagTurnOffOldSimTouchCollector_PlaceFilter": "True;13603694404;5614144350;12461605266;13689224216;13683300119",
-    "FFlagUIBloxRemoveDefaultValueForPlayerTileName": "True",
     "FFlagFriendsLandingHideRelevancyInfo": "True",
     "FFlagCollectionServiceMethodsOnInstance": "True",
     "FFlagCollectionServiceMethodsOnInstanceNullChecks": "True",
@@ -5939,6 +5938,7 @@
     "FFlagEnableEvaluateAtCursorCmd": "True",
     "FFlagPerformanceControlEnableIXPHoldoutExperiment": "True",
     "FFlagLuaAppMigrateGameCarouselImpressions": "True",
+    "FFlagLuaAppFixGameGridTableImpressions": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -6258,8 +6258,8 @@
     "FFlagTrackDeeplinkLaunchFlow": "False",
     "FFlagEnableLuaPhoneVerificationExperimentRelease1": "True",
     "FLogDataModelPatchAnalytics": "6",
-    "FStringFlagRepoGitHashFastString": "e3ada8be8df2427d235828860297265d6e47c2f7",
-    "DFStringFlagRepoGitHashDynamicString": "e3ada8be8df2427d235828860297265d6e47c2f7",
-    "FStringFlipTimeStampFastString": "2023-06-26T21:36:34.827Z",
-    "DFStringFlipTimeStampDynamicString": "2023-06-26T21:36:34.827Z"
+    "FStringFlagRepoGitHashFastString": "02d63313bc5267b819004df72fd960b56000e201",
+    "DFStringFlagRepoGitHashDynamicString": "02d63313bc5267b819004df72fd960b56000e201",
+    "FStringFlipTimeStampFastString": "2023-06-26T21:48:02.590Z",
+    "DFStringFlipTimeStampDynamicString": "2023-06-26T21:48:02.590Z"
 }
