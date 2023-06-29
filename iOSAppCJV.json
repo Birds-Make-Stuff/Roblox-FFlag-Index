@@ -6021,9 +6021,11 @@
     "FFlagOpenXRLaunchingSteamVRFix": "True",
     "DFFlagFacsBandwidthOptimization": "True",
     "FFlagStudioUseBetterSaveFailureMessaging": "True",
-    "FFlagBootcampCLI73758_Rollout": "True;60;2023-06-29T23:14:28",
     "DFFlagLogServiceClearOutput_Rollout": "True;30;2023-06-29T23:14:39",
     "FFlagStudioSaveSettingsFixAndRefactor": "True",
+    "DFFlagStreamingVelocityAwareMissingRegionsFix_Rollout": "True;30;2023-06-29T23:33:25",
+    "FFlagBootcampCLI73758": "True",
+    "FFlagUserVRRotationUpdate": "False",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -6380,8 +6382,8 @@
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
     "FFlagAppBridgeStartupController": "True",
-    "FStringFlagRepoGitHashFastString": "ff2462ce548a67bbeb2a9ce36e8bbcfe6680a840",
-    "DFStringFlagRepoGitHashDynamicString": "ff2462ce548a67bbeb2a9ce36e8bbcfe6680a840",
-    "FStringFlipTimeStampFastString": "2023-06-29T23:26:17.183Z",
-    "DFStringFlipTimeStampDynamicString": "2023-06-29T23:26:17.183Z"
+    "FStringFlagRepoGitHashFastString": "bd66c5ab993958ca656b47ddb6c340460c43f942",
+    "DFStringFlagRepoGitHashDynamicString": "bd66c5ab993958ca656b47ddb6c340460c43f942",
+    "FStringFlipTimeStampFastString": "2023-06-29T23:37:16.348Z",
+    "DFStringFlipTimeStampDynamicString": "2023-06-29T23:37:16.348Z"
 }
