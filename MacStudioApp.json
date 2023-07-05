@@ -6038,6 +6038,7 @@
     "FFlagTextureAtlasPromoteDebugName_Rollout": "False;60;2023-07-05T19:55:30",
     "FFlagSimCSGV3LoadPrimitivesJustInTime2": "True",
     "FFlagOpenXrDeviceRecenter": "False",
+    "DFLogFaceAnimatorTrace": "6",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -6290,8 +6291,8 @@
     "FStringFeature_CookieProtocolEnabled": "496;100",
     "FFlagDebugLuaAppValidateProps": "True",
     "DFLogTrackHttpRequest": "0",
-    "FStringFlagRepoGitHashFastString": "9897eff1769bff24c67d5d9ff50f51e5cf7730e2",
-    "DFStringFlagRepoGitHashDynamicString": "9897eff1769bff24c67d5d9ff50f51e5cf7730e2",
-    "FStringFlipTimeStampFastString": "2023-07-05T21:07:59.674Z",
-    "DFStringFlipTimeStampDynamicString": "2023-07-05T21:07:59.674Z"
+    "FStringFlagRepoGitHashFastString": "fd922e8329018fddbf2473951a9be6c2b2a410a9",
+    "DFStringFlagRepoGitHashDynamicString": "fd922e8329018fddbf2473951a9be6c2b2a410a9",
+    "FStringFlipTimeStampFastString": "2023-07-05T21:36:40.172Z",
+    "DFStringFlipTimeStampDynamicString": "2023-07-05T21:36:40.172Z"
 }
