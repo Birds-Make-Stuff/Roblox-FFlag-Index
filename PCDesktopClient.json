@@ -318,7 +318,7 @@
     "FFlagTakeAScreenshotOfThis": "True",
     "FFlagTouchEventSameSHCellBugFixEnabled": "True",
     "FFlagTouchscreenSupport": "False",
-    "FFlagUGCUpdateErrors": "False",
+    "FFlagUGCUpdateErrors": "True",
     "FFlagUGCValidateHandleSize": "False",
     "FFlagUXImprovementAddSearchBar": "True",
     "FFlagUpdateSettingsHubGameText": "False",
@@ -6047,6 +6047,11 @@
     "FFlagUGCExtraBannedNames": "True",
     "FFlagPopupPluginQWidget_Rollout": "True;60;2023-07-05T23:17:12",
     "FFlagMaterialBindingPerfFix2_Rollout": "True;60;2023-07-05T23:18:09",
+    "FFlagIgnoreInvisibleChildForPageLayout": "True",
+    "FFlagFixVerticalArrangedRichText": "True",
+    "FFlagCOLLAB4043AutoReconnectDoNotRetry403": "True",
+    "FFlagCOLLAB3906ReconnectNonDefaultWhenDisabled2": "True",
+    "FFlagCOLLAB4044AddAlreadyReconnectedBeforeFieldToDisconnectTelemetry": "True",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -6303,8 +6308,8 @@
     "FFlagSignalRLogTotalMessageDelivered": "True",
     "FFlagEnableRealtimeRolloutCheck2": "True",
     "FFlagPassKeyValuesToSessionTrackingWithMap": "False",
-    "FStringFlagRepoGitHashFastString": "276380030effce0a9365a22b1c41913972df295d",
-    "DFStringFlagRepoGitHashDynamicString": "276380030effce0a9365a22b1c41913972df295d",
-    "FStringFlipTimeStampFastString": "2023-07-05T23:19:08.130Z",
-    "DFStringFlipTimeStampDynamicString": "2023-07-05T23:19:08.130Z"
+    "FStringFlagRepoGitHashFastString": "3dfdf29b308309133ad1b957455400861367ea10",
+    "DFStringFlagRepoGitHashDynamicString": "3dfdf29b308309133ad1b957455400861367ea10",
+    "FStringFlipTimeStampFastString": "2023-07-05T23:35:56.964Z",
+    "DFStringFlipTimeStampDynamicString": "2023-07-05T23:35:56.964Z"
 }
