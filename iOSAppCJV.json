@@ -5277,7 +5277,7 @@
     "DFIntAdGuiRandomizedRaycastLaunchPercentage2": "10000",
     "FFlagSelfViewDontHideOnSwapCharacter": "True",
     "FFlagDragDetectors1": "False",
-    "FFlagDragDetectors1_PlaceFilter": "True;13735376863;13638384763;12981782010;10135698219;11314555671;13503219415;13049142488;12909041133;13477165541;13477146301;12445163038;13351825906;11814430535",
+    "FFlagDragDetectors1_PlaceFilter": "True;13813805995;13735376863;13638384763;12981782010;10135698219;11314555671;13503219415;13049142488;12909041133;13477165541;13477146301;12445163038;13351825906;11814430535",
     "FFlagCOLLAB3629EnableCloudEditControllerOnWakeTelemetry": "True",
     "FFlagStudioRemoveEmptySplitters": "True",
     "FFlagStudioRemoveEmptySplittersTopological": "True",
@@ -6391,6 +6391,7 @@
     "FLogDataModelPatchAnalytics": "6",
     "FIntSocialTabUserProfileApiRollout": "100",
     "FIntFriendsCarouselUserProfileApiRollout": "100",
+    "DFFlagPotentialFixToTDigestMutexCrash2_Rollout": "True;60;2023-07-06T23:38:13",
     "FFlagMaterialGeneratorBetaFeature": "False",
     "DFFlagPolicyServiceReportIsNotSubjectToChinaPolicies": "True",
     "DFIntDefaultTimeoutTimeMs": "20000",
@@ -6428,8 +6429,8 @@
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
     "FFlagAppBridgeStartupController": "True",
-    "FStringFlagRepoGitHashFastString": "69d0a7351fa027199e2e525f360078949ae7e033",
-    "DFStringFlagRepoGitHashDynamicString": "69d0a7351fa027199e2e525f360078949ae7e033",
-    "FStringFlipTimeStampFastString": "2023-07-06T23:24:47.783Z",
-    "DFStringFlipTimeStampDynamicString": "2023-07-06T23:24:47.783Z"
+    "FStringFlagRepoGitHashFastString": "4a45d960d70bac41942686a5f94e3a9a814e80e2",
+    "DFStringFlagRepoGitHashDynamicString": "4a45d960d70bac41942686a5f94e3a9a814e80e2",
+    "FStringFlipTimeStampFastString": "2023-07-06T23:45:49.240Z",
+    "DFStringFlipTimeStampDynamicString": "2023-07-06T23:45:49.240Z"
 }
