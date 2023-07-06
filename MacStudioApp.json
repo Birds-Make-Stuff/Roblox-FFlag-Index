@@ -6069,9 +6069,7 @@
     "FFlagEnableWinAppCapabilityAcccessCheck_Rollout": "True;60;2023-07-06T22:34:40",
     "DFFlagGjkSatMargins": "True",
     "FFlagAssertDeletedTextureDataSane3": "True",
-    "DFFlagDebugSendTDigestDebugInfo": "True",
-    "FFlagEarlyCreateProfileTelemetry": "True",
-    "FFlagReportFpsAndGfxQualityPercentiles": "True",
+    "FFlagFriendActivityToVisited": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -6324,8 +6322,8 @@
     "FStringFeature_CookieProtocolEnabled": "496;100",
     "FFlagDebugLuaAppValidateProps": "True",
     "DFLogTrackHttpRequest": "0",
-    "FStringFlagRepoGitHashFastString": "650e4a2960445f52af60deae1fda52ad6bb01225",
-    "DFStringFlagRepoGitHashDynamicString": "650e4a2960445f52af60deae1fda52ad6bb01225",
-    "FStringFlipTimeStampFastString": "2023-07-06T23:16:30.857Z",
-    "DFStringFlipTimeStampDynamicString": "2023-07-06T23:16:30.857Z"
+    "FStringFlagRepoGitHashFastString": "69d0a7351fa027199e2e525f360078949ae7e033",
+    "DFStringFlagRepoGitHashDynamicString": "69d0a7351fa027199e2e525f360078949ae7e033",
+    "FStringFlipTimeStampFastString": "2023-07-06T23:24:47.783Z",
+    "DFStringFlipTimeStampDynamicString": "2023-07-06T23:24:47.783Z"
 }

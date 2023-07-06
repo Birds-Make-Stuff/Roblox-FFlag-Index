@@ -6069,9 +6069,7 @@
     "FFlagEnableWinAppCapabilityAcccessCheck_Rollout": "True;60;2023-07-06T22:34:40",
     "DFFlagGjkSatMargins": "True",
     "FFlagAssertDeletedTextureDataSane3": "True",
-    "DFFlagDebugSendTDigestDebugInfo": "True",
-    "FFlagEarlyCreateProfileTelemetry": "True",
-    "FFlagReportFpsAndGfxQualityPercentiles": "True",
+    "FFlagFriendActivityToVisited": "True",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -6327,8 +6325,9 @@
     "FFlagSignalRLogTotalMessageDelivered": "True",
     "FFlagEnableRealtimeRolloutCheck2": "True",
     "FFlagPassKeyValuesToSessionTrackingWithMap": "False",
-    "FStringFlagRepoGitHashFastString": "bd59559d3e137b76c0483c6fd0d9ef8a52802306",
-    "DFStringFlagRepoGitHashDynamicString": "bd59559d3e137b76c0483c6fd0d9ef8a52802306",
-    "FStringFlipTimeStampFastString": "2023-07-06T23:14:44.280Z",
-    "DFStringFlipTimeStampDynamicString": "2023-07-06T23:14:44.280Z"
+    "FFlagReportFpsAndGfxQualityPercentiles": "True",
+    "FStringFlagRepoGitHashFastString": "69d0a7351fa027199e2e525f360078949ae7e033",
+    "DFStringFlagRepoGitHashDynamicString": "69d0a7351fa027199e2e525f360078949ae7e033",
+    "FStringFlipTimeStampFastString": "2023-07-06T23:24:47.783Z",
+    "DFStringFlipTimeStampDynamicString": "2023-07-06T23:24:47.783Z"
 }
