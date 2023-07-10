@@ -6072,7 +6072,6 @@
     "FFlagFacialAnimationStreamingClearTrackImprovementsV2_PlaceFilter": "True;7449423635",
     "FFlagAddApolloClientToExperienceChat": "True",
     "FFlagExploreApiSortContentsMigrationIXP2": "False",
-    "DFFlagLogSystemSinkSupport2_Rollout": "True;60;2023-07-10T19:01:35",
     "FFlagLuauCloneCyclicUnions": "True",
     "DFFlagPerformanceControlAddSecondaryMetricsToApi": "True",
     "DFFlagHumanoidSimWorld_Rollout": "True;60;2023-07-10T21:01:28",
@@ -6080,6 +6079,8 @@
     "FFlagEnableSurveyPrompts": "True",
     "FFlagEnableSurveyTextCustomization": "True",
     "FFlagAppShellMutedErrorOnBadUserThumbnail": "True",
+    "DFFlagReportOSInRakNetHighwaterMark_Rollout": "True;60;2023-07-10T21:56:00",
+    "DFFlagLogSystemSinkSupport2": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -6438,8 +6439,8 @@
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
     "FFlagAppBridgeStartupController": "True",
-    "FStringFlagRepoGitHashFastString": "770e56b1a7b33921dd9391e0b38d7095003df0c9",
-    "DFStringFlagRepoGitHashDynamicString": "770e56b1a7b33921dd9391e0b38d7095003df0c9",
-    "FStringFlipTimeStampFastString": "2023-07-10T21:44:56.580Z",
-    "DFStringFlipTimeStampDynamicString": "2023-07-10T21:44:56.580Z"
+    "FStringFlagRepoGitHashFastString": "0ddd402640cbc10694d65eec14dca59cfc22c0e4",
+    "DFStringFlagRepoGitHashDynamicString": "0ddd402640cbc10694d65eec14dca59cfc22c0e4",
+    "FStringFlipTimeStampFastString": "2023-07-10T22:02:35.208Z",
+    "DFStringFlipTimeStampDynamicString": "2023-07-10T22:02:35.208Z"
 }
