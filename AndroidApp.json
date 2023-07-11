@@ -6091,6 +6091,7 @@
     "DFFlagIncludeAndroidAdviceAPIFreeOsMemForComparisonForSessionTracking2": "True",
     "DFFlagUseAndroidMemoryAdviceLibrary2": "True",
     "DFIntAndroidAdviceChohortHundredthsPercent": "1000",
+    "FFlagExplorerSafeStudioPMAccess": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
