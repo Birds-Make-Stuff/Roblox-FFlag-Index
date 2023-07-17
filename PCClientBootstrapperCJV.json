@@ -37,8 +37,7 @@
     "FFlagBootstrapperHasSeparatedPkgManifest": "True",
     "FFlagRemoveDeployBootstrapper": "False",
     "FFlagRemoveDeployBootstrapper2": "True",
-    "FFlagDisableInstallStudioBootstrapperFromClient": "True",
+    "FFlagDisableInstallStudioBootstrapperFromClient": "False",
     "FFlagMacBootsrapperFirstStudioLaunchTelem": "True",
-    "FFlagWriteRegisteredApplicationsByProtocolName": "True",
-    "FFlagDisableInstallStudioBootstrapperFromClient_Rollout": "False;1;2023-07-17T20:28:55"
+    "FFlagWriteRegisteredApplicationsByProtocolName": "True"
 }

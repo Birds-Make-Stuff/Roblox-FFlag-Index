@@ -6198,6 +6198,7 @@
     "FFlagFixSortlessGridAlignHugeScreen": "True",
     "FFlagRSFLoadMoreFix": "True",
     "DFFlagLuauDeferredGc": "True",
+    "DFFlagDataModelDestroyAsAsyncTask": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -6396,8 +6397,8 @@
     "FFlagUseRealtimePublisher": "True",
     "FIntUseRealtimePublisherHundredthPercent": "10000",
     "FFlagEnableRealtimeRolloutCheck2": "True",
-    "FStringFlagRepoGitHashFastString": "d97c9a0fead7388b824d245cdff1fb7c2470b4fa",
-    "DFStringFlagRepoGitHashDynamicString": "d97c9a0fead7388b824d245cdff1fb7c2470b4fa",
-    "FStringFlipTimeStampFastString": "2023-07-17T20:29:36.490Z",
-    "DFStringFlipTimeStampDynamicString": "2023-07-17T20:29:36.490Z"
+    "FStringFlagRepoGitHashFastString": "0a0540777c3badae06c6e7755c26751cd99f0c6d",
+    "DFStringFlagRepoGitHashDynamicString": "0a0540777c3badae06c6e7755c26751cd99f0c6d",
+    "FStringFlipTimeStampFastString": "2023-07-17T21:13:25.910Z",
+    "DFStringFlipTimeStampDynamicString": "2023-07-17T21:13:25.910Z"
 }
