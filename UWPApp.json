@@ -5744,7 +5744,7 @@
     "FFlagFixEditAliasInputInLightMode": "True",
     "FFlagRemoveEditAliasPlaceholderTransparency": "True",
     "FFlagUserProfilesDataLoaderUpdateFieldsEnabled": "True",
-    "FFlagNewUserOnboardingABTest": "True",
+    "FFlagNewUserOnboardingABTest": "False",
     "DFFlagTeleportServiceV2MetricsPart1": "True",
     "FFlagToolboxFixAutocompleteCloseForRoact17": "True",
     "FFlagVRBottomBarFixes": "True",
@@ -6129,7 +6129,7 @@
     "FFlagDragDetectorCancelImprovements": "True",
     "FFlagFixMultistreamVertexStride": "True",
     "FFlagVoiceChatLogAudibilityChangesV2": "True",
-    "FFlagDebuggerEnableSelectionTooltip2": "True",
+    "FFlagDebuggerEnableSelectionTooltip2": "False",
     "FFlagStudioAddDockingLogs": "True",
     "FFlagStudioAddPluginLogs": "True",
     "FFlagApolloClientFetchPIFeedConnector": "True",
@@ -6404,8 +6404,8 @@
     "FFlagUseRealtimePublisher": "True",
     "FIntUseRealtimePublisherHundredthPercent": "10000",
     "FFlagEnableRealtimeRolloutCheck2": "True",
-    "FStringFlagRepoGitHashFastString": "c4c62790e722ac2bc1fadc75228d715d377aea61",
-    "DFStringFlagRepoGitHashDynamicString": "c4c62790e722ac2bc1fadc75228d715d377aea61",
-    "FStringFlipTimeStampFastString": "2023-07-19T20:19:09.623Z",
-    "DFStringFlipTimeStampDynamicString": "2023-07-19T20:19:09.623Z"
+    "FStringFlagRepoGitHashFastString": "9b812bab904ca26240511f229b9ad6ae05611128",
+    "DFStringFlagRepoGitHashDynamicString": "9b812bab904ca26240511f229b9ad6ae05611128",
+    "FStringFlipTimeStampFastString": "2023-07-20T19:55:33.006Z",
+    "DFStringFlipTimeStampDynamicString": "2023-07-20T19:55:33.006Z"
 }
