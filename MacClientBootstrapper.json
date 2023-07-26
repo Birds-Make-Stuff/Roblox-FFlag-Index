@@ -5,7 +5,7 @@
     "UseCdn": "True",
     "FFlagWindowsLaunchTypeAnalytics": "True",
     "FFlagBootstrapperQuitOnDirectXExpiration": "True",
-    "FStringDisabledRobloxChannelList": "ZReleaseVS2019,Zfeatureboost_removal_test_in_prod,Zbugfixboost-mutex-revert,zfeaturehsr2cdnplaytest2,Zproject512-boost-remove-mutex-1,Zproject516-boost-remove-mutex-network,Zfeatureinstance-parent-weak-ptr,Zfeaturebaseline,Zfeatureinstance-parent-weak-ptr-2,Zfeaturetelemlife,Zfeaturefmod-20115,ZbugfixCLI-54676-test,Zfeaturesubsystematomic,ZbugfixCLI-55214-master,Zfeatureqt5.15,Zfeatureuse-new-rapidjson-in-flag-loading,Zfeaturefmod-recording-test,Zfeaturesubsystemhttpclient,Zfeaturesignalconcurrency,Zfeatureupgrade-lz4,Zxcode13release,ZQTitanStudioRelease,ZQTitanStudioReleaseHighDpi,Zfeatureprepare-shorelines4,zqtcanary,Zfeatureupgrade-libyuv-bento4,ZfeatureLUATOOLS-121-rbxpMoonbeamReleaseTest,Zfeaturewin64_client_deploy_test,ZWinPlayer64,ZProjectQt5159,Zprojectupdate-webrtc-fetch-content,ZFeaturesignaldoublelink",
+    "FStringDisabledRobloxChannelList": "ZReleaseVS2019,Zfeatureboost_removal_test_in_prod,Zbugfixboost-mutex-revert,zfeaturehsr2cdnplaytest2,Zproject512-boost-remove-mutex-1,Zproject516-boost-remove-mutex-network,Zfeatureinstance-parent-weak-ptr,Zfeaturebaseline,Zfeatureinstance-parent-weak-ptr-2,Zfeaturetelemlife,Zfeaturefmod-20115,ZbugfixCLI-54676-test,Zfeaturesubsystematomic,ZbugfixCLI-55214-master,Zfeatureqt5.15,Zfeatureuse-new-rapidjson-in-flag-loading,Zfeaturefmod-recording-test,Zfeaturesubsystemhttpclient,Zfeaturesignalconcurrency,Zfeatureupgrade-lz4,Zxcode13release,ZQTitanStudioRelease,ZQTitanStudioReleaseHighDpi,Zfeatureprepare-shorelines4,zqtcanary,Zfeatureupgrade-libyuv-bento4,ZfeatureLUATOOLS-121-rbxpMoonbeamReleaseTest,Zfeaturewin64_client_deploy_test,ZWinPlayer64,ZProjectQt5159,Zprojectupdate-webrtc-fetch-content,ZFeaturesignaldoublelink,ZCanary,ZCanary1,ZCanary2,ZCanary3,ZCanary4,ZCanary5",
     "FFlagBootstrapperSaveOptOutDUAR": "True",
     "FFlagBootstrapperAutoOptIn": "True",
     "FIntBootstrapperInfluxReportHundredthPercentage": "100",
@@ -58,8 +58,8 @@
     "FFlagEnableDeepLinkUseExistingClient": "True",
     "FFlagEnableSingleInstanceRobloxClient": "True",
     "FStringClientChannelProbabilityString": "1000;zflag=50",
-    "FStringFlagRepoGitHashFastString": "5995aaf8165c8202f0b445539b7a2d1a37f51b97",
-    "DFStringFlagRepoGitHashDynamicString": "5995aaf8165c8202f0b445539b7a2d1a37f51b97",
-    "FStringFlipTimeStampFastString": "2023-07-24T22:56:08.079Z",
-    "DFStringFlipTimeStampDynamicString": "2023-07-24T22:56:08.079Z"
+    "FStringFlagRepoGitHashFastString": "4a23a05ba2ecf6d7ad5d19f0af2b068ca0c18a02",
+    "DFStringFlagRepoGitHashDynamicString": "4a23a05ba2ecf6d7ad5d19f0af2b068ca0c18a02",
+    "FStringFlipTimeStampFastString": "2023-07-25T23:28:08.494Z",
+    "DFStringFlipTimeStampDynamicString": "2023-07-25T23:28:08.494Z"
 }
