@@ -1985,7 +1985,7 @@
     "FFlagUIBloxEnableImageSetResolutionScaleFix2": "True",
     "FFlagSimCSGV3PreventNonManifold": "True",
     "DFFlagVoiceChatEnableEventLogging5": "True",
-    "FIntCOLLAB2264PreemptiveLoadNTCRecentGamesOnStartUp": "1",
+    "FIntCOLLAB2264PreemptiveLoadNTCRecentGamesOnStartUp": "2",
     "DFFlagPoolAudioBuffers": "True",
     "FFlagLuauUnseeArrayTtv": "True",
     "DFFlagNewRunServiceSignals2": "True",
@@ -6445,6 +6445,10 @@
     "FFlagNewCapsContext": "True",
     "DFFlagAtomicPlayerStarterGUIFix2": "True",
     "FFlagEnablePromptPurchaseRequestedV2": "True",
+    "FFlagEnableScriptAnalysisCallbacks2": "True",
+    "FFlagSimEnableCSGV3InPlugin": "True",
+    "FFlagSimShowDisableCSGV3PluginBox": "True",
+    "FFlagEnableLocationRecording_Rollout": "True;30;2023-08-01T21:05:25",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -6701,8 +6705,8 @@
     "FStringCustomizeNameModalOpened": "CustomizeNameModalOpenedWindowsClient",
     "DFFlagFixSessionTrackingSendSuccess": "True",
     "FFlagMaterialGeneratorBetaFeature": "False",
-    "FStringFlagRepoGitHashFastString": "14f6579607e1c8653de39474d5ec22f3cf20e1ce",
-    "DFStringFlagRepoGitHashDynamicString": "14f6579607e1c8653de39474d5ec22f3cf20e1ce",
-    "FStringFlipTimeStampFastString": "2023-08-01T19:24:18.604Z",
-    "DFStringFlipTimeStampDynamicString": "2023-08-01T19:24:18.604Z"
+    "FStringFlagRepoGitHashFastString": "8d3546e7891dcd7f977df32e408f78519b0be1fa",
+    "DFStringFlagRepoGitHashDynamicString": "8d3546e7891dcd7f977df32e408f78519b0be1fa",
+    "FStringFlipTimeStampFastString": "2023-08-01T21:11:28.915Z",
+    "DFStringFlipTimeStampDynamicString": "2023-08-01T21:11:28.915Z"
 }
