@@ -6398,7 +6398,7 @@
     "FFlagLuauAssignmentHasCost": "True",
     "FFlagChangeDefaultSoundRollOff": "True",
     "FFlagVideoServiceInit": "False",
-    "FFlagLuaAppPromotionalEmailsCheckboxEnabled": "True",
+    "FFlagLuaAppPromotionalEmailsCheckboxEnabled": "False",
     "FFlagLuauLintNativeComment": "True",
     "FFlagLuauCompileNativeComment": "True",
     "FFlagToastNotificationsUpdateEventParams": "True",
@@ -6435,6 +6435,10 @@
     "DFFlagSharedTableConstructWithRawIter": "True",
     "DFFlagPhysicalPropertiesErrorMsgImprovement": "True",
     "DFFlagSwitchToPhysicsAnalytics": "True",
+    "DFIntPerfDataGlobalThrottleHundredthsPercent_PlaceFilter": "150;189707",
+    "DFIntPerfDataSummaryModeHundredthsPercent_PlaceFilter": "10000;189707",
+    "DFIntPerfFilterSummaryReportIntervalMs": "15000",
+    "DFIntPerfFilterSummaryReportIntervalMs_PlaceFilter": "60000;189707",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -6692,8 +6696,8 @@
     "FStringFeature_CookieProtocolEnabled": "496;100",
     "FFlagDebugLuaAppValidateProps": "True",
     "DFLogTrackHttpRequest": "0",
-    "FStringFlagRepoGitHashFastString": "f8cabca3be01b190188ca9290a8ddfd2290afeb5",
-    "DFStringFlagRepoGitHashDynamicString": "f8cabca3be01b190188ca9290a8ddfd2290afeb5",
-    "FStringFlipTimeStampFastString": "2023-07-31T23:36:39.417Z",
-    "DFStringFlipTimeStampDynamicString": "2023-07-31T23:36:39.417Z"
+    "FStringFlagRepoGitHashFastString": "6bc43c43e52d8b205f81b26681e88833185f1ba6",
+    "DFStringFlagRepoGitHashDynamicString": "6bc43c43e52d8b205f81b26681e88833185f1ba6",
+    "FStringFlipTimeStampFastString": "2023-08-01T01:24:41.985Z",
+    "DFStringFlipTimeStampDynamicString": "2023-08-01T01:24:41.985Z"
 }
