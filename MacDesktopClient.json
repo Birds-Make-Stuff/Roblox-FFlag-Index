@@ -6386,7 +6386,6 @@
     "FFlagPWUpdateCompleteSignal": "True",
     "DFFlagIterationCompleteMetaFix": "False",
     "FFlagUserCarouselAlwaysClickableTitle": "True",
-    "FFlagLogOutputUseFontSizeForCalcWrappingDims": "True",
     "FFlagCIMoveInitCall_v1": "True",
     "FFlagScriptEditorMultiCursorChangedEvent": "True",
     "FFlagLuauCompileFunctionType": "True",
@@ -6526,6 +6525,12 @@
     "DFFlagHttpSignalAllResponses": "True",
     "FFlagTerrainEditorIterativeTransform": "True",
     "FFlagTerrainEditorTeachingCallouts": "True",
+    "FFlagAvatarChatBanMessage": "False",
+    "FFlagAvatarChatBanMessage_PlaceFilter": "True;12123120785;12867047376;12867089300;14066075418",
+    "FFlagEnableVoiceNudge": "False",
+    "FFlagEnableVoiceNudge_PlaceFilter": "True;12123120785;12867047376;12867089300;14066075418",
+    "FFlagUseLuaSignalrConsumer": "False",
+    "FFlagUseLuaSignalrConsumer_PlaceFilter": "True;12123120785;12867047376;12867089300;14066075418",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -6782,8 +6787,8 @@
     "FStringCapturesPageOpenedInGameMenu": "CapturesPageOpenedInGameMenuMacClient",
     "FStringCapturesShareToastButtonActivated": "CapturesShareToastButtonActivatedMacClient",
     "FStringShareCaptureGenerateLinkFailed": "ShareCaptureGenerateLinkFailedMacClient",
-    "FStringFlagRepoGitHashFastString": "1567de259ea6100350203583c440c37e0588be11",
-    "DFStringFlagRepoGitHashDynamicString": "1567de259ea6100350203583c440c37e0588be11",
-    "FStringFlipTimeStampFastString": "2023-08-02T20:22:29.728Z",
-    "DFStringFlipTimeStampDynamicString": "2023-08-02T20:22:29.728Z"
+    "FStringFlagRepoGitHashFastString": "9e9eafa05bb4f00bc2f119e8dac75f014560b97f",
+    "DFStringFlagRepoGitHashDynamicString": "9e9eafa05bb4f00bc2f119e8dac75f014560b97f",
+    "FStringFlipTimeStampFastString": "2023-08-02T21:31:56.605Z",
+    "DFStringFlipTimeStampDynamicString": "2023-08-02T21:31:56.605Z"
 }
