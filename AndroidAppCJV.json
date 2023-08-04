@@ -4511,7 +4511,7 @@
     "FFlagFixFlaggingUseSingleLayoutForRichText5": "True",
     "FFlagRemoveMemoryApsGpu": "True",
     "FFlagUnifyGamePlayIntentEvent": "True",
-    "FFlagStudioPrelaunchTeamCreateOnDocClose": "True",
+    "FFlagStudioPrelaunchTeamCreateOnDocClose": "False",
     "DFFlagCollectStudioOpenRbxp": "True",
     "DFIntStudioOpenRbxpHundredthsPercentage": "10000",
     "DFFlagPlayersMoveChatReceive": "True",
@@ -6315,7 +6315,6 @@
     "DFFlagVoiceChatEnableRccV2ControlPlane_PlaceFilter": "True;9134756438;9134768108",
     "FFlagDEV_VoiceChatNewServerJoinFlow": "False",
     "FFlagDEV_VoiceChatNewServerJoinFlow_PlaceFilter": "True;9134756438;9134768108",
-    "FFlagLuaAppEnableToastNotifications4": "True",
     "FFlagCOLLAB4039RefactorDocClose": "True",
     "FFlagPeopleListContextualMenuUserProfileApiEnabledForAll": "True",
     "FFlagGameSettingsEvictIfLostPerms": "True",
@@ -6428,7 +6427,6 @@
     "FFlagEnableScriptAnalysisCallbacks2": "True",
     "FFlagSimEnableCSGV3InPlugin": "True",
     "FFlagSimShowDisableCSGV3PluginBox": "True",
-    "FFlagRenderPerformanceTelemetry": "True",
     "FFlagEnablePhoneUseProvidedDefaultPrefixRelease1": "True",
     "FFlagExposeHintAndInformationSeverity": "True",
     "FFlagStudioSetDLLFlagsEarly": "True",
@@ -7017,8 +7015,8 @@
     "DFStringLmsRecipeEndpoint": "recipe-luobu",
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
-    "FStringFlagRepoGitHashFastString": "379b2df27a7be1bd4d3b1dedce984c2cfd596407",
-    "DFStringFlagRepoGitHashDynamicString": "379b2df27a7be1bd4d3b1dedce984c2cfd596407",
-    "FStringFlipTimeStampFastString": "2023-08-04T21:01:07.471Z",
-    "DFStringFlipTimeStampDynamicString": "2023-08-04T21:01:07.471Z"
+    "FStringFlagRepoGitHashFastString": "9210a9622f2b58d6a352613b95bd7198931cbc3f",
+    "DFStringFlagRepoGitHashDynamicString": "9210a9622f2b58d6a352613b95bd7198931cbc3f",
+    "FStringFlipTimeStampFastString": "2023-08-04T22:15:09.199Z",
+    "DFStringFlipTimeStampDynamicString": "2023-08-04T22:15:09.199Z"
 }
