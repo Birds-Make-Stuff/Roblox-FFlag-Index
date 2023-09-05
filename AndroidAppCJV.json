@@ -7391,6 +7391,13 @@
     "FFlagRigVisualizationFixJointSelection": "True",
     "FFlagAddRobloxChannelToLuaBacktrace": "True",
     "FFlagLuaAppGameTileHoverDelay": "True",
+    "DFFlagDataModelControllerUsesEngineContext_Rollout": "True;60;2023-09-05T22:57:22",
+    "FFlagUseCoreGuiServiceInsteadOfScreenGui_Rollout": "True;60;2023-09-05T23:05:40",
+    "FFlagEnableMultigetExperienceThumbnails": "True",
+    "FFlagUpdateSourceAsync": "True",
+    "FFlagDelayedImmediateDisconnect": "True",
+    "FFlagVoiceChatCheckAudioOutputFormat": "True",
+    "DFFlagAddPlaySessionIdToSimConstraintTelemetryEvent_Rollout": "True;60;2023-09-05T23:43:43",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -7800,8 +7807,8 @@
     "DFStringLmsRecipeEndpoint": "recipe-luobu",
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
-    "FStringFlagRepoGitHashFastString": "70bd201043334bfc0a8a6610f61b5a98557ad885",
-    "DFStringFlagRepoGitHashDynamicString": "70bd201043334bfc0a8a6610f61b5a98557ad885",
-    "FStringFlipTimeStampFastString": "2023-09-05T22:30:08.189Z",
-    "DFStringFlipTimeStampDynamicString": "2023-09-05T22:30:08.189Z"
+    "FStringFlagRepoGitHashFastString": "d03725aaef7769245cc4f24ecb6ca3eff26c9b60",
+    "DFStringFlagRepoGitHashDynamicString": "d03725aaef7769245cc4f24ecb6ca3eff26c9b60",
+    "FStringFlipTimeStampFastString": "2023-09-05T23:44:26.014Z",
+    "DFStringFlipTimeStampDynamicString": "2023-09-05T23:44:26.014Z"
 }
