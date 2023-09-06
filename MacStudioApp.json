@@ -7391,13 +7391,13 @@
     "FFlagRigVisualizationFixJointSelection": "True",
     "FFlagAddRobloxChannelToLuaBacktrace": "True",
     "FFlagLuaAppGameTileHoverDelay": "True",
-    "DFFlagDataModelControllerUsesEngineContext_Rollout": "True;60;2023-09-05T22:57:22",
-    "FFlagUseCoreGuiServiceInsteadOfScreenGui_Rollout": "True;60;2023-09-05T23:05:40",
     "FFlagEnableMultigetExperienceThumbnails": "True",
     "FFlagUpdateSourceAsync": "True",
     "FFlagDelayedImmediateDisconnect": "True",
     "FFlagVoiceChatCheckAudioOutputFormat": "True",
     "DFFlagAddPlaySessionIdToSimConstraintTelemetryEvent_Rollout": "True;60;2023-09-05T23:43:43",
+    "DFFlagDataModelControllerUsesEngineContext": "True",
+    "FFlagUseCoreGuiServiceInsteadOfScreenGui": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -7667,8 +7667,8 @@
     "FStringFeature_CookieProtocolEnabled": "496;100",
     "FFlagDebugLuaAppValidateProps": "True",
     "DFLogTrackHttpRequest": "0",
-    "FStringFlagRepoGitHashFastString": "d03725aaef7769245cc4f24ecb6ca3eff26c9b60",
-    "DFStringFlagRepoGitHashDynamicString": "d03725aaef7769245cc4f24ecb6ca3eff26c9b60",
-    "FStringFlipTimeStampFastString": "2023-09-05T23:44:26.014Z",
-    "DFStringFlipTimeStampDynamicString": "2023-09-05T23:44:26.014Z"
+    "FStringFlagRepoGitHashFastString": "244f7cb517a3e82d80cb85e7217eaf1340cac502",
+    "DFStringFlagRepoGitHashDynamicString": "244f7cb517a3e82d80cb85e7217eaf1340cac502",
+    "FStringFlipTimeStampFastString": "2023-09-06T00:12:27.784Z",
+    "DFStringFlipTimeStampDynamicString": "2023-09-06T00:12:27.784Z"
 }
