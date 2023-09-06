@@ -7395,9 +7395,10 @@
     "FFlagUpdateSourceAsync": "True",
     "FFlagDelayedImmediateDisconnect": "True",
     "FFlagVoiceChatCheckAudioOutputFormat": "True",
-    "DFFlagAddPlaySessionIdToSimConstraintTelemetryEvent_Rollout": "True;60;2023-09-05T23:43:43",
     "DFFlagDataModelControllerUsesEngineContext": "True",
     "FFlagUseCoreGuiServiceInsteadOfScreenGui": "True",
+    "FFlagSessionTrackingResetMoreFields_Rollout": "True;60;2023-09-06T00:51:07",
+    "DFFlagAddPlaySessionIdToSimConstraintTelemetryEvent": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -7738,8 +7739,8 @@
     "DFFlagReportDisconnectToEventIngestAndPoints": "True",
     "FFlagLuaUseOTPInputTypeForPhoneUpsellV2": "True",
     "FFlagLuaUsePhoneNumberTextTypeForPhoneUpsellV2": "True",
-    "FStringFlagRepoGitHashFastString": "244f7cb517a3e82d80cb85e7217eaf1340cac502",
-    "DFStringFlagRepoGitHashDynamicString": "244f7cb517a3e82d80cb85e7217eaf1340cac502",
-    "FStringFlipTimeStampFastString": "2023-09-06T00:12:27.784Z",
-    "DFStringFlipTimeStampDynamicString": "2023-09-06T00:12:27.784Z"
+    "FStringFlagRepoGitHashFastString": "6a39c30f55de04daf88321395ff306bcd0e16990",
+    "DFStringFlagRepoGitHashDynamicString": "6a39c30f55de04daf88321395ff306bcd0e16990",
+    "FStringFlipTimeStampFastString": "2023-09-06T00:52:16.326Z",
+    "DFStringFlipTimeStampDynamicString": "2023-09-06T00:52:16.326Z"
 }
