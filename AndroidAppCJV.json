@@ -7651,9 +7651,9 @@
     "FFlagPerformanceControlTextureManagerIXPEnabled5": "True",
     "DFFlagUseNetworkIxpLog": "True",
     "FFlagHandleDoubleCloseEvent": "True",
-    "DFFlagAUMPAnalytics_Rollout": "False;60;2023-09-18T23:37:04",
     "FFlagResetFmodRecordingOnStart": "True",
     "FFlagModelLodStats": "True",
+    "DFFlagAUMPAnalytics": "False",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -8060,8 +8060,8 @@
     "DFStringLmsRecipeEndpoint": "recipe-luobu",
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
-    "FStringFlagRepoGitHashFastString": "a45961e6e22c01516dfacf595d13c5a315e9d7de",
-    "DFStringFlagRepoGitHashDynamicString": "a45961e6e22c01516dfacf595d13c5a315e9d7de",
-    "FStringFlipTimeStampFastString": "2023-09-19T00:13:32.043Z",
-    "DFStringFlipTimeStampDynamicString": "2023-09-19T00:13:32.043Z"
+    "FStringFlagRepoGitHashFastString": "145b5512a64d72bd548d87b9709be0479519eed9",
+    "DFStringFlagRepoGitHashDynamicString": "145b5512a64d72bd548d87b9709be0479519eed9",
+    "FStringFlipTimeStampFastString": "2023-09-19T00:46:41.690Z",
+    "DFStringFlipTimeStampDynamicString": "2023-09-19T00:46:41.690Z"
 }
