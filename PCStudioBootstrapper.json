@@ -47,8 +47,8 @@
     "FFlagMacChannelFromPathOnly": "True",
     "FFlagMacInstallerStartClient": "True",
     "FFlagMacInstallerVersionGuidParam": "True",
-    "FFlagUseClientAsProtocolHandler_Rollout": "True;30;2023-09-20T20:33:55",
-    "FFlagUseNewWindowsUninstaller_Rollout": "True;30;2023-09-20T20:34:58",
+    "FFlagUseClientAsProtocolHandler": "True",
+    "FFlagUseNewWindowsUninstaller": "True",
     "FFlagWindowsBootstrapperAdditionalCdnDiagnostics2": "True",
     "FFlagBootstrapperEnableOptOutDUAR": "True",
     "FFlagBootstrapperDeprecateWin32DesktopApps": "True",
@@ -62,8 +62,8 @@
     "FFlagWindowsInstallerEnableDpiAwareness": "True",
     "FFlagWindowsMonitorAnalytics": "True",
     "FFlagWindowsStudioFirstLaunchArgument2": "True",
-    "FStringFlagRepoGitHashFastString": "873c9ebbdaa1219b64a9fefd52b1495768ffc68c",
-    "DFStringFlagRepoGitHashDynamicString": "873c9ebbdaa1219b64a9fefd52b1495768ffc68c",
-    "FStringFlipTimeStampFastString": "2023-09-20T20:53:08.281Z",
-    "DFStringFlipTimeStampDynamicString": "2023-09-20T20:53:08.281Z"
+    "FStringFlagRepoGitHashFastString": "65f8692654c2562821312092486105825826eabf",
+    "DFStringFlagRepoGitHashDynamicString": "65f8692654c2562821312092486105825826eabf",
+    "FStringFlipTimeStampFastString": "2023-09-20T21:51:36.731Z",
+    "DFStringFlipTimeStampDynamicString": "2023-09-20T21:51:36.731Z"
 }
