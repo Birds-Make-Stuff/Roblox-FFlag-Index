@@ -62,8 +62,8 @@
     "FFlagWindowsInstallerEnableDpiAwareness": "True",
     "FFlagWindowsMonitorAnalytics": "True",
     "FFlagWindowsStudioFirstLaunchArgument2": "True",
-    "FStringFlagRepoGitHashFastString": "559a224f5d0a7523b5f49f54ccd349d437c123a3",
-    "DFStringFlagRepoGitHashDynamicString": "559a224f5d0a7523b5f49f54ccd349d437c123a3",
-    "FStringFlipTimeStampFastString": "2023-09-20T23:51:06.535Z",
-    "DFStringFlipTimeStampDynamicString": "2023-09-20T23:51:06.535Z"
+    "FStringFlagRepoGitHashFastString": "1c0a169230dd782434509a3081becdc26a263793",
+    "DFStringFlagRepoGitHashDynamicString": "1c0a169230dd782434509a3081becdc26a263793",
+    "FStringFlipTimeStampFastString": "2023-09-21T00:51:22.308Z",
+    "DFStringFlipTimeStampDynamicString": "2023-09-21T00:51:22.308Z"
 }
