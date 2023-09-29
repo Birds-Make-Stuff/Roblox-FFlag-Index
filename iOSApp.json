@@ -7891,6 +7891,7 @@
     "FFlagStudioSelectionProxyConnectSignalLater": "True",
     "FFlagStudioUseBasicMessageReceiver": "True",
     "DFFlagReportFmodInitErrors": "True",
+    "DFIntPhysicsAnalyticsIntervalSec_Rollout": "300;60;2023-09-29T20:25:42",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
