@@ -58,8 +58,8 @@
     "InfluxInstallHundredthsPercentage": "1",
     "FFlagRemoveSuccessDialogMacStudio": "True",
     "ShowInstallSuccessPrompt": "False",
-    "FStringFlagRepoGitHashFastString": "b301f1f676d4351d38d4a58df504bb284d2b5cde",
-    "DFStringFlagRepoGitHashDynamicString": "b301f1f676d4351d38d4a58df504bb284d2b5cde",
-    "FStringFlipTimeStampFastString": "2023-10-06T23:25:14.322Z",
-    "DFStringFlipTimeStampDynamicString": "2023-10-06T23:25:14.322Z"
+    "FStringFlagRepoGitHashFastString": "3ab25319e7e05c3737dc1f8ede385f3100defa30",
+    "DFStringFlagRepoGitHashDynamicString": "3ab25319e7e05c3737dc1f8ede385f3100defa30",
+    "FStringFlipTimeStampFastString": "2023-10-09T19:04:37.632Z",
+    "DFStringFlipTimeStampDynamicString": "2023-10-09T19:04:37.632Z"
 }
