@@ -5102,9 +5102,9 @@
     "DFFlagEnableAdUnitNameWhitelist": "True",
     "FFlagAinBuildSkinSubsetsAfterSimplify": "True",
     "DFIntPerformanceControlSoundReloadLatencyMaxValue": "200",
-    "DFIntPerformanceControlSoundReloadLatencyTargetUtility": "-10000",
+    "DFIntPerformanceControlSoundReloadLatencyTargetUtility": "-1000",
     "DFIntPerformanceControlSoundReloadThrashingMaxValue": "200",
-    "DFIntPerformanceControlSoundReloadThrashingTargetUtility": "-10000",
+    "DFIntPerformanceControlSoundReloadThrashingTargetUtility": "-1000",
     "FFlagAddDirectionToModifier": "True",
     "FFlagAinDropSkinningToRoot": "True",
     "FFlagProfileUpdatedRequestOriginSourceType": "True",
@@ -7107,7 +7107,7 @@
     "FFlagUpdatedTaskDefinitions": "True",
     "FFlagTerrainEditorOverhaul": "True",
     "DFIntGuiServiceChromeSignalAPIAnalytics_ReportHundredthsPercent": "10000",
-    "FFlagInGameChromeSignalAPIAnalytics": "True",
+    "FFlagInGameChromeSignalAPIAnalytics": "False",
     "FLogVoiceChatLogs": "Critical",
     "FLogVoiceChatLogs_PlaceFilter": "Info;9134756438;7137646352;8158601082;10126799807;7376832747;9672950003;13523443036;10386320684;11116930529;7097215816",
     "DFIntRobloxTelemetryClientDisconnectPointsThrottleHundredthsPercent": "100",
@@ -8640,8 +8640,8 @@
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
     "FFlagAppBridgeStartupController": "True",
-    "FStringFlagRepoGitHashFastString": "ec7fc49ef38402216893dbc4eb171b62a5386a23",
-    "DFStringFlagRepoGitHashDynamicString": "ec7fc49ef38402216893dbc4eb171b62a5386a23",
-    "FStringFlipTimeStampFastString": "2023-10-17T01:42:05.500Z",
-    "DFStringFlipTimeStampDynamicString": "2023-10-17T01:42:05.500Z"
+    "FStringFlagRepoGitHashFastString": "77ebd8f5c9d4b1c94f1ef4c9b4f19f03ce900b90",
+    "DFStringFlagRepoGitHashDynamicString": "77ebd8f5c9d4b1c94f1ef4c9b4f19f03ce900b90",
+    "FStringFlipTimeStampFastString": "2023-10-17T18:44:28.458Z",
+    "DFStringFlipTimeStampDynamicString": "2023-10-17T18:44:28.458Z"
 }
