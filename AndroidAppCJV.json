@@ -8264,6 +8264,10 @@
     "DFFlagHttpUnifyCacheCleanup": "True",
     "DFFlagHttpCacheCleanScheduleUseFastInt": "True",
     "FFlagFixBigModelUploadCrash": "True",
+    "FFlagUserProfilesLogErrorCodes": "True",
+    "FFlagStopRenderPixelBorderWhenUICornerPresent_Rollout": "True;60;2023-10-17T23:47:42",
+    "FFlagEnableIOSAudioFixV2": "True",
+    "DFIntScreenGuiSafeAreaPropertiesAnalyticsEventIngest_ReportHundredthsPercent": "1",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -8636,6 +8640,8 @@
     "FStringUserProfilesRequestFailAfterRetry": "UserProfilesRequestFailAfterRetryAndroid",
     "FStringUserProfilesRequestSuccess": "UserProfilesRequestSuccessAndroid",
     "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryAndroid",
+    "EnableIrisGameJoinAndroid2": "True",
+    "EnableCallNotificationHandler4": "True",
     "FFlagMaterialGeneratorBetaFeature": "False",
     "DFLogJoinDataRxStats": "10",
     "FFlagShouldMuteUnlocalizedError": "True",
@@ -8667,8 +8673,8 @@
     "DFStringLmsRecipeEndpoint": "recipe-luobu",
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
-    "FStringFlagRepoGitHashFastString": "77ebd8f5c9d4b1c94f1ef4c9b4f19f03ce900b90",
-    "DFStringFlagRepoGitHashDynamicString": "77ebd8f5c9d4b1c94f1ef4c9b4f19f03ce900b90",
-    "FStringFlipTimeStampFastString": "2023-10-17T18:44:28.458Z",
-    "DFStringFlipTimeStampDynamicString": "2023-10-17T18:44:28.458Z"
+    "FStringFlagRepoGitHashFastString": "332c31d83e839155530e443c18c62c900117fc3f",
+    "DFStringFlagRepoGitHashDynamicString": "332c31d83e839155530e443c18c62c900117fc3f",
+    "FStringFlipTimeStampFastString": "2023-10-17T23:54:55.634Z",
+    "DFStringFlipTimeStampDynamicString": "2023-10-17T23:54:55.634Z"
 }
