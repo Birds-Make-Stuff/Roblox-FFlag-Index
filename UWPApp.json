@@ -4619,7 +4619,7 @@
     "FStringFlagRolloutTestStaticString7": "April_11_test",
     "DFFlagFlagRolloutTestDynamicBool6": "True",
     "DFFlagDoesNotExistAtAll": "False",
-    "DFFlagFlagRolloutTestDynamicBool1": "True",
+    "DFFlagFlagRolloutTestDynamicBool1": "False",
     "DFFlagFlagRolloutTestDynamicBool2": "False",
     "DFFlagFlagRolloutTestDynamicBool5": "False",
     "DFFlagFlagRolloutTestDynamicBool7": "False",
@@ -8393,10 +8393,6 @@
     "FFlagEnableIrisDua": "True",
     "FFlagDecodeToastPayload": "True",
     "FIntAssetImportMaxPresetNameLength": "50",
-    "FFlagFlagRolloutTestStaticBool1_Rollout": "True;60;2023-10-23T23:13:41",
-    "FFlagFaceAnimatorIncludeDisableToastEventPrompt_PlaceFilter": "False;12806190892",
-    "FFlagInvisibleMeshThumbnailFix": "True",
-    "FFlagRemoveEnvMapLightgridCPUDependency": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -8586,8 +8582,8 @@
     "FFlagTTIDelayExperimentReportFullTelemetryEnabled": "True",
     "FFlagDisableAppLaunchFlowThrottling": "False",
     "FFlagFixExperienceDetailsPageIssues2": "True",
-    "FStringFlagRepoGitHashFastString": "6ba3d2fb6a1ae66ddb87824f4f9bf8236d6754f7",
-    "DFStringFlagRepoGitHashDynamicString": "6ba3d2fb6a1ae66ddb87824f4f9bf8236d6754f7",
-    "FStringFlipTimeStampFastString": "2023-10-24T00:11:25.111Z",
-    "DFStringFlipTimeStampDynamicString": "2023-10-24T00:11:25.111Z"
+    "FStringFlagRepoGitHashFastString": "2f41554e689edc4365f828fafbc1e76f40f5cb7d",
+    "DFStringFlagRepoGitHashDynamicString": "2f41554e689edc4365f828fafbc1e76f40f5cb7d",
+    "FStringFlipTimeStampFastString": "2023-10-24T01:10:13.186Z",
+    "DFStringFlipTimeStampDynamicString": "2023-10-24T01:10:13.186Z"
 }
