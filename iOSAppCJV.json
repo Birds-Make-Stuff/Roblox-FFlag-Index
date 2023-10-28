@@ -8302,7 +8302,7 @@
     "DFIntReportControllerManagerPercent": "1000",
     "DFFlagPolicyServiceGIEndpointsDisabled2": "False",
     "DFFlagPolicyServiceMigrationEndpointsEnabled2": "True",
-    "DFIntPolicyServiceEndpointMigrationDualReadHundredthsPercentage2": "100",
+    "DFIntPolicyServiceEndpointMigrationDualReadHundredthsPercentage2": "50",
     "FFlagUXForCameraPerformanceEnabled": "True",
     "FFlagUXForCameraPerformanceIXPEnabled": "True",
     "FStringUXForCameraPerformanceIXPLayerName": "AvatarChat.CameraPerfToast",
@@ -8486,7 +8486,6 @@
     "FFlagSupportAuxiliaryGuiRender": "True",
     "FFlagLuaAppHomeJoinYourFriendsSession": "True",
     "DFFlagAdsFixInfinityAngle": "True",
-    "FFlagUGCValidationRefactorAssetTraversal": "True",
     "FFlagUGCValidateDynamicHeadMoodClient": "True",
     "FFlagUGCValidateDynamicHeadMoodRCC": "True",
     "FFlagFixParamsScaleNotApplied": "True",
@@ -8941,8 +8940,8 @@
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
     "FFlagAppBridgeStartupController": "True",
-    "FStringFlagRepoGitHashFastString": "79ede2c768780fac020145e6194567ed5cdc0d9b",
-    "DFStringFlagRepoGitHashDynamicString": "79ede2c768780fac020145e6194567ed5cdc0d9b",
-    "FStringFlipTimeStampFastString": "2023-10-27T23:55:00.489Z",
-    "DFStringFlipTimeStampDynamicString": "2023-10-27T23:55:00.489Z"
+    "FStringFlagRepoGitHashFastString": "7f25a58d8847880bd08cc61f5b60c64a3b094deb",
+    "DFStringFlagRepoGitHashDynamicString": "7f25a58d8847880bd08cc61f5b60c64a3b094deb",
+    "FStringFlipTimeStampFastString": "2023-10-28T02:44:42.729Z",
+    "DFStringFlipTimeStampDynamicString": "2023-10-28T02:44:42.729Z"
 }
