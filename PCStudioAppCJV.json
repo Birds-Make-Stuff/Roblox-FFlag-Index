@@ -9093,9 +9093,12 @@
     "DFIntEditableMeshSessionLoggingHundredthsPercentage": "10000",
     "DFIntEditableMeshSessionTrackingHundredthsPercentage": "10000",
     "RemoveDeprecatedCookieSyncManagerSync": "True",
-    "FFlagMemoryBufferForHarmony2_Rollout": "True;30;2023-11-14T19:46:52",
     "FFlagXboxFixInviteFlow": "True",
-    "FFlagTenFootUiEnableCrossPlay_Rollout": "True;30;2023-11-14T19:58:37",
+    "FFlagMemoryBufferForHarmony2": "True",
+    "DFFlagPerfDataSetInitialValueOptional_Rollout": "True;60;2023-11-14T20:26:07",
+    "FFlagTenFootUiEnableCrossPlay": "True",
+    "FFlagLuaAppEnableDeviceIntegrity": "True",
+    "DFIntProbesReportThrottleMS_Rollout": "30000;60;2023-11-14T20:54:29",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -9386,8 +9389,8 @@
     "DFFlagPolicyServiceReportIsNotSubjectToChinaPolicies": "True",
     "FFlagFailsafeHumanoid_2": "True",
     "FFlagStudioUseGlobalBinaryTypeForChannels": "True",
-    "FStringFlagRepoGitHashFastString": "20f588de4d202759ba319e068ea76c54909187a3",
-    "DFStringFlagRepoGitHashDynamicString": "20f588de4d202759ba319e068ea76c54909187a3",
-    "FStringFlipTimeStampFastString": "2023-11-14T19:58:58.295Z",
-    "DFStringFlipTimeStampDynamicString": "2023-11-14T19:58:58.295Z"
+    "FStringFlagRepoGitHashFastString": "247805d79a449c879c994ddfb2e84aee500cc290",
+    "DFStringFlagRepoGitHashDynamicString": "247805d79a449c879c994ddfb2e84aee500cc290",
+    "FStringFlipTimeStampFastString": "2023-11-14T21:00:13.695Z",
+    "DFStringFlipTimeStampDynamicString": "2023-11-14T21:00:13.695Z"
 }
